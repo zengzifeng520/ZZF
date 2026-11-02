@@ -1,0 +1,35 @@
+#EXTM3U x-tvg-url="https://zzf.new.tg/epg.xml" url-tvg="https://zzf.new.tg/epg.xml"
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="卫视频道",卡酷动画
+http://tv.zhangzp.top:4022/udp/239.125.1.127:4130
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/NewTV%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA.png" group-title="影视频道",军旅剧场
+http://tv.zhangzp.top:4022/udp/239.125.1.147:4130
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CIBN%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png" group-title="影视频道",古装剧场
+http://tv.zhangzp.top:4022/udp/239.125.1.146:4130
+#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" group-title="少儿频道",内蒙古少儿
+http://tv.zhangzp.top:4022/udp/239.125.1.69:4120
+#EXTINF:-1 tvg-name="成龙" tvg-logo="https://zzf.new.tg/data/logos/682f1d4d333c.png" group-title="明星频道",成龙
+http://tv.zhangzp.top:4022/udp/239.125.1.53:5000
+#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%86%85%E8%92%99%E5%8F%A4%E5%86%9C%E7%89%A7.png" group-title="地方频道",内蒙古农牧
+http://tv.zhangzp.top:4022/udp/239.125.1.73:4120
+#EXTINF:-1 tvg-name="内蒙古文体" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%86%85%E8%92%99%E5%8F%A4%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" group-title="地方频道",内蒙古文体
+http://tv.zhangzp.top:4022/udp/239.125.1.72:4120
+#EXTINF:-1 tvg-name="内蒙古新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%86%85%E8%92%99%E5%8F%A4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="地方频道",内蒙古新闻
+http://tv.zhangzp.top:4022/udp/239.125.1.70:4120
+#EXTINF:-1 tvg-name="内蒙古经济" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%86%85%E8%92%99%E5%8F%A4%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="地方频道",内蒙古经济
+http://tv.zhangzp.top:4022/udp/239.125.1.74:4120
+#EXTINF:-1 tvg-name="内蒙古蒙古语卫视" tvg-logo="https://zzf.new.tg/data/logos/5e854e706c0a.png" group-title="地方频道",内蒙古蒙古语卫视
+http://tv.zhangzp.top:4022/udp/239.125.1.66:5000
+#EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://zzf.new.tg/data/logos/754d0615b234.png" group-title="地方频道",内蒙古蒙语文化
+http://tv.zhangzp.top:4022/udp/239.125.1.71:4120
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
+http://tv.zhangzp.top:4022/udp/239.125.1.178:4130
+#EXTINF:-1 tvg-name="爱生活" tvg-logo="https://zzf.new.tg/data/logos/197933893937.png" group-title="地方频道",爱生活
+http://tv.zhangzp.top:4022/udp/239.125.1.50:5000
+#EXTINF:-1 tvg-name="鄂尔多斯城市" tvg-logo="https://zzf.new.tg/data/logos/68c3a65320a2.png" group-title="地方频道",鄂尔多斯城市
+http://tv.zhangzp.top:4022/udp/239.125.2.163:4152
+#EXTINF:-1 tvg-name="鄂尔多斯新闻" tvg-logo="https://zzf.new.tg/data/logos/69dea6cc603b.png" group-title="地方频道",鄂尔多斯新闻
+http://tv.zhangzp.top:4022/udp/239.125.2.165:4154
+#EXTINF:-1 tvg-name="鄂尔多斯经济" tvg-logo="https://zzf.new.tg/data/logos/2fa2bf945c6f.png" group-title="地方频道",鄂尔多斯经济
+http://tv.zhangzp.top:4022/udp/239.125.2.164:4153
+#EXTINF:-1 tvg-name="鄂尔多斯蒙古语综合" tvg-logo="https://zzf.new.tg/data/logos/a2d932f8508b.png" group-title="地方频道",鄂尔多斯蒙古语综合
+http://tv.zhangzp.top:4022/udp/239.125.2.162:4151
