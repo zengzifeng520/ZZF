@@ -91,9 +91,9 @@ http://home.pinkfloyd.cn:5000/rtp/238.1.79.20:4272
 http://36.7.150.152:4022/rtp/238.1.78.203:7496
 #EXTINF:-1 tvg-name="全椒综合" tvg-logo="https://zzf.new.tg/data/logos/920d6e9cb4c2.png" group-title="地方频道",全椒综合
 http://home.pinkfloyd.cn:5000/rtp/238.1.78.203:7496
-#EXTINF:-1 tvg-id="六安公共" tvg-name="六安公共" tvg-logo="https://zzf.new.tg/data/logos/b7f33d12b52d.png" group-title="地方频道",六安公共
+#EXTINF:-1 tvg-name="六安公共" tvg-logo="https://zzf.new.tg/data/logos/b7f33d12b52d.png" group-title="地方频道",六安公共
 http://36.7.150.152:4022/rtp/238.1.78.145:7032
-#EXTINF:-1 tvg-id="六安公共" tvg-name="六安公共" tvg-logo="https://zzf.new.tg/data/logos/b7f33d12b52d.png" group-title="地方频道",六安公共
+#EXTINF:-1 tvg-name="六安公共" tvg-logo="https://zzf.new.tg/data/logos/b7f33d12b52d.png" group-title="地方频道",六安公共
 http://home.pinkfloyd.cn:5000/rtp/238.1.78.145:7032
 #EXTINF:-1 tvg-name="六安综合" tvg-logo="https://zzf.new.tg/data/logos/e42272a4517f.png" group-title="地方频道",六安综合
 http://36.7.150.152:4022/rtp/238.1.78.144:7024
@@ -267,13 +267,13 @@ http://home.pinkfloyd.cn:5000/rtp/238.1.78.137:6968
 http://36.7.150.152:4022/rtp/238.1.78.135:6952
 #EXTINF:-1 tvg-name="淮北新闻综合" tvg-logo="https://zzf.new.tg/data/logos/cfeff19624df.png" group-title="地方频道",淮北新闻综合
 http://home.pinkfloyd.cn:5000/rtp/238.1.78.135:6952
-#EXTINF:-1 tvg-id="淮南公共" tvg-name="淮南公共" tvg-logo="https://zzf.new.tg/data/logos/706c469afba2.png" group-title="地方频道",淮南公共
+#EXTINF:-1 tvg-name="淮南公共" tvg-logo="https://zzf.new.tg/data/logos/706c469afba2.png" group-title="地方频道",淮南公共
 http://36.7.150.152:4022/rtp/238.1.78.114:6784
-#EXTINF:-1 tvg-id="淮南公共" tvg-name="淮南公共" tvg-logo="https://zzf.new.tg/data/logos/706c469afba2.png" group-title="地方频道",淮南公共
+#EXTINF:-1 tvg-name="淮南公共" tvg-logo="https://zzf.new.tg/data/logos/706c469afba2.png" group-title="地方频道",淮南公共
 http://home.pinkfloyd.cn:5000/rtp/238.1.78.114:6784
-#EXTINF:-1 tvg-id="淮南新闻综合" tvg-name="淮南新闻综合" tvg-logo="https://zzf.new.tg/data/logos/a90687cc8fae.png" group-title="地方频道",淮南新闻综合
+#EXTINF:-1 tvg-name="淮南新闻综合" tvg-logo="https://zzf.new.tg/data/logos/a90687cc8fae.png" group-title="地方频道",淮南新闻综合
 http://36.7.150.152:4022/rtp/238.1.78.113:6776
-#EXTINF:-1 tvg-id="淮南新闻综合" tvg-name="淮南新闻综合" tvg-logo="https://zzf.new.tg/data/logos/a90687cc8fae.png" group-title="地方频道",淮南新闻综合
+#EXTINF:-1 tvg-name="淮南新闻综合" tvg-logo="https://zzf.new.tg/data/logos/a90687cc8fae.png" group-title="地方频道",淮南新闻综合
 http://home.pinkfloyd.cn:5000/rtp/238.1.78.113:6776
 #EXTINF:-1 tvg-name="湾沚新闻综合" tvg-logo="https://zzf.new.tg/data/logos/17cafba26862.png" group-title="地方频道",湾沚新闻综合
 http://36.7.150.152:4022/rtp/238.1.78.187:7368
