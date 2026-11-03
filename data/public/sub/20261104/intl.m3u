@@ -183,8 +183,6 @@ http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Dhamma TV" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="国外·印尼",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:-1 tvg-name="Efarina TV" tvg-logo="https://i.imgur.com/iYTimXh.png" group-title="国外·印尼",Efarina TV
-https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-name="Indonesiana.TV" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="国外·印尼",Indonesiana.TV
 https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-name="Jawa Pos TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="国外·印尼",Jawa Pos TV
@@ -203,8 +201,6 @@ http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="SMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="国外·印尼",SMTV
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="STV" tvg-logo="https://i.imgur.com/tDTyKgs.png" group-title="国外·印尼",STV
-http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="TVRI World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" group-title="国外·印尼",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-name="Berita RTM" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="国外·马来西亚",Berita RTM
@@ -727,8 +723,6 @@ http://170.83.16.50/ARTE_1/index.m3u8
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Band Sports" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="国外·巴西",Band Sports
 http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-name="Bem Mais TV" tvg-logo="https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg" group-title="国外·巴西",Bem Mais TV
-https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-name="CINDIE TV" tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png" group-title="国外·巴西",CINDIE TV
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="国外·巴西",COM Brasil
@@ -1051,8 +1045,6 @@ https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="国外·希腊",Star Channel
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
-#EXTINF:-1 tvg-name="Star Kentrikis Elladas" tvg-logo="https://i.imgur.com/ZBt6beo.png" group-title="国外·希腊",Star Kentrikis Elladas
-https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 #EXTINF:-1 tvg-name="Vergina TV" tvg-logo="https://i.imgur.com/abQmFoH.png" group-title="国外·希腊",Vergina TV
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 tvg-name="Alfa Omega TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512" group-title="国外·罗马尼亚",Alfa Omega TV
@@ -1111,12 +1103,8 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Swamiji TV European" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="国外·奥地利",Swamiji TV European
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 1 Oberosterreich" tvg-logo="https://i.imgur.com/KbMkEIn.png" group-title="国外·奥地利",TV 1 Oberosterreich
-https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 #EXTINF:-1 tvg-name="Canal Alpha Jura" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="国外·瑞士",Canal Alpha Jura
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Alpha Neuchatel" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="国外·瑞士",Canal Alpha Neuchatel
-https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:-1 tvg-name="Carac 1" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="国外·瑞士",Carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:-1 tvg-name="Carac 2" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="国外·瑞士",Carac 2
