@@ -833,8 +833,6 @@ http://n2.192372.xyz:8888/rtp/239.3.1.69:4120
 http://vpn.famcloud.top:9878/rtp/239.3.1.69:4120
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CIBN%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png" group-title="影视频道",古装剧场
 http://www.221111.best:8012/rtp/239.3.1.69:4120
-#EXTINF:-1 tvg-name="四川影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%9B%9B%E5%B7%9D%E5%BD%B1%E8%A7%86%E6%96%87%E8%89%BA.png" group-title="影视频道",四川影视
-http://211.149.143.188:80/udp/239.94.0.73:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="影视频道",都市剧场
 http://123.117.47.136:4022/rtp/239.3.1.67:4120
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
@@ -861,8 +859,6 @@ http://123.117.47.136:4022/rtp/239.3.1.212:8060
 http://123.120.6.99:4022/rtp/239.3.1.212:8060
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%BA%AA%E5%AE%9E%E4%BA%BA%E6%96%87.png" group-title="纪实频道",上海纪实人文
 http://61.49.164.102:1314/rtp/239.3.1.212:8060
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" group-title="纪实频道",求索纪录
-http://211.149.143.188:80/udp/239.94.1.142:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="纪实频道",金鹰纪实
 http://111.197.231.173:4022/rtp/239.3.1.58:8156
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="纪实频道",金鹰纪实
@@ -1015,8 +1011,6 @@ http://n2.192372.xyz:8888/rtp/239.3.1.115:8000
 http://vpn.famcloud.top:9878/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="brtv纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方频道",brtv纪实科教
 http://www.221111.best:8012/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-name="内江综合" tvg-logo="https://zzf.new.tg/data/logos/34a1268f3f7c.png" group-title="地方频道",内江综合
-http://211.149.143.188:80/udp/239.94.0.164:5140
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://zzf.new.tg/data/logos/a0ab59c77994.png" group-title="地方频道",北京国际
 http://123.117.47.136:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="北京密云" tvg-logo="https://zzf.new.tg/data/logos/8b241ebd5da7.png" group-title="地方频道",北京密云
@@ -1037,8 +1031,6 @@ http://114.250.20.79:4022/rtp/239.3.1.59:8001
 http://123.117.47.136:4022/rtp/239.3.1.59:8001
 #EXTINF:-1 tvg-name="北京门头沟" tvg-logo="https://zzf.new.tg/data/logos/7924b4db76fc.png" group-title="地方频道",北京门头沟
 http://123.120.6.99:4022/rtp/239.3.1.59:8001
-#EXTINF:-1 tvg-name="宜宾公共" tvg-logo="https://zzf.new.tg/data/logos/0ed71a5fe5f1.png" group-title="地方频道",宜宾公共
-http://211.149.143.188:80/udp/239.94.0.172:5140
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
 http://111.199.3.80:8686/rtp/239.3.1.52:4120
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
@@ -1059,8 +1051,6 @@ http://114.250.20.79:4022/rtp/239.3.1.52:4120
 http://123.117.47.136:4022/rtp/239.3.1.52:4120
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育卫视
 http://123.120.6.99:4022/rtp/239.3.1.52:4120
-#EXTINF:-1 tvg-name="广元综合" tvg-logo="https://zzf.new.tg/data/logos/cabb6f76ab93.png" group-title="地方频道",广元综合
-http://211.149.143.188:80/udp/239.94.0.167:5140
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://zzf.new.tg/data/logos/359891e732ba.png" group-title="地方频道",朝阳融媒
 http://111.197.231.173:4022/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://zzf.new.tg/data/logos/359891e732ba.png" group-title="地方频道",朝阳融媒
@@ -1097,7 +1087,3 @@ http://n2.192372.xyz:8888/rtp/239.3.1.86:4120
 http://vpn.famcloud.top:9878/rtp/239.3.1.86:4120
 #EXTINF:-1 tvg-name="爱生活" tvg-logo="https://zzf.new.tg/data/logos/197933893937.png" group-title="地方频道",爱生活
 http://www.221111.best:8012/rtp/239.3.1.86:4120
-#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://zzf.new.tg/data/logos/7f35c52c0047.png" group-title="地方频道",眉山综合
-http://211.149.143.188:80/udp/239.94.0.170:5140
-#EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://zzf.new.tg/data/logos/afe89b5af5e8.png" group-title="地方频道",自贡综合
-http://211.149.143.188:80/udp/239.94.0.169:5140
