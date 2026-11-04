@@ -177,12 +177,16 @@ http://jyb7928.host:8066/udp/239.1.1.93:8093
 http://124.165.232.26:8084/rtp/226.0.2.225:9712
 #EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://183.188.23.139:6000/rtp/226.0.2.225:9712
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+http://jyb7928.host:8066/udp/239.1.1.101:8101
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="央视频道",CCTV风云音乐
 http://124.165.232.26:8084/rtp/226.0.2.220:9672
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="央视频道",CCTV风云音乐
 http://183.188.23.139:6000/rtp/226.0.2.220:9672
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="央视频道",CCTV风云音乐
 http://jyb7928.host:8066/udp/239.1.1.96:8096
+#EXTINF:-1 tvg-name="CCTV高网频道" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.png" group-title="央视频道",CCTV高网频道
+http://jyb7928.host:8066/udp/239.1.1.102:8102
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",东南卫视
 http://124.165.232.26:8084/rtp/226.0.2.40:8232
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",东南卫视
@@ -515,6 +519,8 @@ http://183.188.23.139:6000/rtp/226.0.2.116:8840
 http://124.165.232.26:8084/rtp/226.0.2.214:9624
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="数字频道",快乐垂钓
 http://183.188.23.139:6000/rtp/226.0.2.214:9624
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="数字频道",快乐垂钓
+http://jyb7928.host:8066/udp/239.1.1.86:8086
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="数字频道",文物宝库
 http://124.165.232.26:8084/rtp/226.0.2.110:8792
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="数字频道",文物宝库

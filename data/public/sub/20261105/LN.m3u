@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://zzf.new.tg/epg.xml" url-tvg="https://zzf.new.tg/epg.xml"
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4oz.png" group-title="央视频道",CCTV4欧洲
+http://101.wifi98.com:9001/rtp/232.0.0.53:1234
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4mz.png" group-title="央视频道",CCTV4美洲
 http://101.wifi98.com:9001/rtp/232.0.0.59:1234
 #EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://i.imgur.com/V2ncOXi.png" group-title="央视频道",CCTV世界地理
@@ -11,6 +13,10 @@ http://101.wifi98.com:9001/rtp/232.0.0.51:1234
 http://101.wifi98.com:9001/rtp/232.0.0.38:1234
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://i.imgur.com/eFxD3hq.png" group-title="央视频道",CCTV第一剧场
 http://101.wifi98.com:9001/rtp/232.0.0.29:1234
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="央视频道",CCTV风云剧场
+http://101.wifi98.com:9001/rtp/232.0.0.45:1234
+#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="央视频道",CCTV风云音乐
+http://101.wifi98.com:9001/rtp/232.0.0.47:1234
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 http://101.wifi98.com:9001/rtp/232.0.0.198:1234
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="卫视频道",优漫卡通
@@ -21,18 +27,24 @@ http://101.wifi98.com:9001/rtp/232.0.0.160:1234
 http://101.wifi98.com:9001/rtp/232.0.0.103:1234
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",延边卫视
 http://101.wifi98.com:9001/rtp/232.0.0.161:1234
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",甘肃卫视
+http://101.wifi98.com:9001/rtp/232.0.0.50:1234
 #EXTINF:-1 tvg-name="北京体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="体育频道",北京体育
 http://101.wifi98.com:9001/rtp/232.0.0.162:1234
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%BE%BD%E5%AE%81%E4%BD%93%E8%82%B2.png" group-title="体育频道",辽宁体育
 http://101.wifi98.com:9001/rtp/232.0.0.164:1234
 #EXTINF:-1 tvg-name="辽宁影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%BE%BD%E5%AE%81%E5%BD%B1%E8%A7%86%E5%89%A7.png" group-title="影视频道",辽宁影视
 http://101.wifi98.com:9001/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="数字频道",欢笑剧场
+http://101.wifi98.com:9001/rtp/232.0.0.98:1234
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://zzf.new.tg/data/logos/d26fa4594f45.png" group-title="地方频道",上海纪实
 http://101.wifi98.com:9001/rtp/232.0.0.132:1234
 #EXTINF:-1 tvg-name="大洼综合" tvg-logo="https://zzf.new.tg/data/logos/d160cabe5f0f.png" group-title="地方频道",大洼综合
 http://101.wifi98.com:9001/rtp/232.0.0.146:1234
 #EXTINF:-1 tvg-name="安多藏语综合" tvg-logo="https://zzf.new.tg/data/logos/1d6f0ac4e8ab.png" group-title="地方频道",安多藏语综合
 http://101.wifi98.com:9001/rtp/232.0.0.105:1234
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育卫视
+http://101.wifi98.com:9001/rtp/232.0.0.169:1234
 #EXTINF:-1 tvg-name="康巴藏语综合" tvg-logo="https://zzf.new.tg/data/logos/bc33dc000603.png" group-title="地方频道",康巴藏语综合
 http://101.wifi98.com:9001/rtp/232.0.0.109:1234
 #EXTINF:-1 tvg-name="抚顺教育" tvg-logo="https://zzf.new.tg/data/logos/6a225066aafb.png" group-title="地方频道",抚顺教育

@@ -215,8 +215,6 @@ http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140
 http://zjhuct.icu:8889/udp/233.50.200.192:5140
 #EXTINF:-1 tvg-id="中国教育1" tvg-name="中国教育1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CETV1.png" group-title="国教频道",中国教育1
 http://125.123.176.112:9999/udp/233.50.201.75:5140
-#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="国教频道",中国教育4
-http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.172:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://i.imgur.com/QcO5Gxl.png" group-title="主题频道",法治天地
 http://125.123.176.112:9999/udp/233.50.200.120:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://i.imgur.com/QcO5Gxl.png" group-title="主题频道",法治天地
