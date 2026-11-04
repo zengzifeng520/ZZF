@@ -27,8 +27,6 @@ http://101.wifi98.com:9001/rtp/232.0.0.162:1234
 http://101.wifi98.com:9001/rtp/232.0.0.164:1234
 #EXTINF:-1 tvg-name="辽宁影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%BE%BD%E5%AE%81%E5%BD%B1%E8%A7%86%E5%89%A7.png" group-title="影视频道",辽宁影视
 http://101.wifi98.com:9001/rtp/232.0.0.25:1234
-#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="国教频道",中国教育4
-http://101.wifi98.com:9001/rtp/232.0.0.239:1234
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://zzf.new.tg/data/logos/d26fa4594f45.png" group-title="地方频道",上海纪实
 http://101.wifi98.com:9001/rtp/232.0.0.132:1234
 #EXTINF:-1 tvg-name="大洼综合" tvg-logo="https://zzf.new.tg/data/logos/d160cabe5f0f.png" group-title="地方频道",大洼综合
