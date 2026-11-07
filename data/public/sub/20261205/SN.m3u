@@ -3,7 +3,7 @@
 http://wddpmpc.sosos.run:4022/rtp/239.111.205.83:5140
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4mz.png" group-title="央视频道",CCTV4美洲
 http://wddpmpc.sosos.run:4022/rtp/239.111.205.84:5140
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 http://wddpmpc.sosos.run:4022/rtp/239.111.205.85:5140
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",农林卫视
 http://wddpmpc.sosos.run:4022/rtp/239.110.205.88:7924
@@ -11,7 +11,7 @@ http://wddpmpc.sosos.run:4022/rtp/239.110.205.88:7924
 http://wddpmpc.sosos.run:4022/rtp/239.112.205.26:5140
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%8E%AF%E7%90%83%E5%A5%87%E8%A7%82.png" group-title="数字频道",环球奇观
 http://wddpmpc.sosos.run:4022/rtp/239.110.205.86:7932
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方频道",北京纪实科教
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方频道",北京纪实科教
 http://wddpmpc.sosos.run:4022/rtp/239.111.205.55:5140
 #EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://zzf.new.tg/data/logos/71164512d988.png" group-title="地方频道",咸阳综合
 http://wddpmpc.sosos.run:4022/rtp/239.112.205.141:5140
@@ -109,9 +109,9 @@ http://wddpmpc.sosos.run:4022/rtp/239.109.205.72:8512
 http://wddpmpc.sosos.run:4022/rtp/239.110.205.55:9946
 #EXTINF:-1 tvg-name="爱生活" tvg-logo="https://zzf.new.tg/data/logos/197933893937.png" group-title="地方频道",爱生活
 http://wddpmpc.sosos.run:4022/rtp/239.112.205.234:5140
-#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://zzf.new.tg/data/logos/c59d5d9edf7c.png" group-title="地方频道",西安丝路
+#EXTINF:-1 tvg-id="西安丝路" tvg-name="西安丝路" tvg-logo="https://zzf.new.tg/data/logos/c59d5d9edf7c.png" group-title="地方频道",西安丝路
 http://wddpmpc.sosos.run:4022/rtp/239.110.205.40:9866
-#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://zzf.new.tg/data/logos/c59d5d9edf7c.png" group-title="地方频道",西安丝路
+#EXTINF:-1 tvg-id="西安丝路" tvg-name="西安丝路" tvg-logo="https://zzf.new.tg/data/logos/c59d5d9edf7c.png" group-title="地方频道",西安丝路
 http://wddpmpc.sosos.run:4022/rtp/239.112.205.176:5140
 #EXTINF:-1 tvg-name="西安乐购购物" tvg-logo="https://zzf.new.tg/data/logos/c9e5bddb4874.png" group-title="地方频道",西安乐购购物
 http://wddpmpc.sosos.run:4022/rtp/239.111.205.30:5140
@@ -135,9 +135,9 @@ http://wddpmpc.sosos.run:4022/rtp/239.111.205.27:5140
 http://wddpmpc.sosos.run:4022/rtp/239.109.205.130:8976
 #EXTINF:-1 tvg-name="西安综合" tvg-logo="https://zzf.new.tg/data/logos/c76f15a688a2.png" group-title="地方频道",西安综合
 http://wddpmpc.sosos.run:4022/rtp/239.111.205.242:5140
-#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://zzf.new.tg/data/logos/fe68645e5e84.png" group-title="地方频道",西安都市
+#EXTINF:-1 tvg-id="西安都市" tvg-name="西安都市" tvg-logo="https://zzf.new.tg/data/logos/fe68645e5e84.png" group-title="地方频道",西安都市
 http://wddpmpc.sosos.run:4022/rtp/239.109.205.131:8984
-#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://zzf.new.tg/data/logos/fe68645e5e84.png" group-title="地方频道",西安都市
+#EXTINF:-1 tvg-id="西安都市" tvg-name="西安都市" tvg-logo="https://zzf.new.tg/data/logos/fe68645e5e84.png" group-title="地方频道",西安都市
 http://wddpmpc.sosos.run:4022/rtp/239.111.205.243:5140
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://zzf.new.tg/data/logos/2733cffc4f43.png" group-title="地方频道",陕西乐家购物
 http://wddpmpc.sosos.run:4022/rtp/239.109.205.7:9160
