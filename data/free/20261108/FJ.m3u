@@ -45,8 +45,6 @@ http://woc.iiiya.cn:18888/rtp/239.61.2.165:8978
 http://e1.woc.iiiya.cn:18888/rtp/239.61.2.184:9092
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港澳频道",凤凰中文
 http://e3.woc.iiiya.cn:18888/rtp/239.61.2.184:9092
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="港澳频道",凤凰中文
-http://woc.iiiya.cn:18888/rtp/239.61.2.184:9092
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港澳频道",凤凰资讯
 http://e1.woc.iiiya.cn:18888/rtp/239.61.2.183:9086
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港澳频道",凤凰资讯
