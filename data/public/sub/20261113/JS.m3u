@@ -73,6 +73,8 @@ http://home.amucn.net:8800/rtp/239.49.1.227:6000
 http://home.amucn.net:8800/rtp/239.49.1.233:6000
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png" group-title="数字频道",梨园频道
 http://home.amucn.net:8800/rtp/239.49.9.21:6000
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="数字频道",欢笑剧场
+http://home.amucn.net:8800/rtp/239.49.8.231:6000
 #EXTINF:-1 tvg-name="东海新闻" tvg-logo="https://zzf.new.tg/data/logos/32843d0d62e2.png" group-title="地方频道",东海新闻
 http://home.amucn.net:8800/rtp/239.49.9.48:6000
 #EXTINF:-1 tvg-name="东海新闻" tvg-logo="https://zzf.new.tg/data/logos/32843d0d62e2.png" group-title="地方频道",东海新闻
