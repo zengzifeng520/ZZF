@@ -365,9 +365,9 @@ http://xs12dp121403.vicp.fun:9999/rtp/239.253.92.176:6006
 http://60.0.97.175:9999/rtp/239.253.92.171:6001
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8C%97%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="地方频道",河北经济生活
 http://xs12dp121403.vicp.fun:9999/rtp/239.253.92.171:6001
-#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8C%97%E9%83%BD%E5%B8%82.png" group-title="地方频道",河北都市
+#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8C%97%E9%83%BD%E5%B8%82.png" group-title="地方频道",河北都市
 http://60.0.97.175:9999/rtp/239.253.92.172:6002
-#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8C%97%E9%83%BD%E5%B8%82.png" group-title="地方频道",河北都市
+#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8C%97%E9%83%BD%E5%B8%82.png" group-title="地方频道",河北都市
 http://xs12dp121403.vicp.fun:9999/rtp/239.253.92.172:6002
 #EXTINF:-1 tvg-name="睛彩河北" tvg-logo="https://zzf.new.tg/data/logos/5ac3089eebbe.png" group-title="地方频道",睛彩河北
 http://60.0.97.175:9999/rtp/239.253.92.104:6221

@@ -157,7 +157,7 @@ http://39.88.14.78:4000/udp/239.253.254.95:8000
 http://39.88.14.78:4000/udp/239.253.254.99:8000
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="数字频道",茶频道
 http://39.88.14.78:4000/udp/239.253.254.143:8000
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E5%86%9C%E7%A7%91.png" group-title="地方频道",山东农科
+#EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E5%86%9C%E7%A7%91.png" group-title="地方频道",山东农科
 http://39.88.14.78:4000/udp/239.253.254.24:8000
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E5%B0%91%E5%84%BF.png" group-title="地方频道",山东少儿
 http://39.88.14.78:4000/udp/239.253.254.25:8000
