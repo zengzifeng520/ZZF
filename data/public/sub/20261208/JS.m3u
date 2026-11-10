@@ -115,13 +115,13 @@ http://home.amucn.net:8800/rtp/239.49.1.62:6000
 http://j1900.silicaite.com:58888/rtp/239.49.9.7:6000
 #EXTINF:-1 tvg-name="CCTV高网频道" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.png" group-title="央视频道",CCTV高网频道
 http://j1900.silicaite.com:58888/rtp/239.49.1.62:6000
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",南方卫视
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",南方卫视
 http://h.vanshun.com:8802/rtp/239.49.1.249:6000
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",南方卫视
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",南方卫视
 http://home.amucn.net:8800/rtp/239.49.1.249:6000
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",南方卫视
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",南方卫视
 http://j1900.silicaite.com:58888/rtp/239.49.1.249:6000
-#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",南方卫视
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",南方卫视
 http://j1900.silicaite.top:58888/rtp/239.49.1.249:6000
 #EXTINF:-1 tvg-name="上海体育" tvg-logo="https://zzf.new.tg/data/logos/f791105e9157.png" group-title="体育频道",上海体育
 http://h.vanshun.com:8802/rtp/239.49.1.175:6000
