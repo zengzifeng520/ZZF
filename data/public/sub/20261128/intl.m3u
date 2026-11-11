@@ -395,6 +395,8 @@ https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/a
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
 #EXTINF:-1 tvg-name="Comercio TV" tvg-logo="https://www.amagi.com/hubfs/Group%202-3.png" group-title="国外·美国",Comercio TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960
+#EXTINF:-1 tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png" group-title="国外·美国",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-name="Court TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb1207.png" group-title="国外·美国",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-name="CSat TV" tvg-logo="https://i.imgur.com/fp2EaLJ.png" group-title="国外·美国",CSat TV
@@ -929,6 +931,8 @@ https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 http://88.212.15.50/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-name="FILMBOX+ Festival" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" group-title="国外·波兰",FILMBOX+ Festival
 https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1 tvg-name="Polsat Viasat History" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="国外·波兰",Polsat Viasat History
+http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 #EXTINF:-1 tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="国外·波兰",RACER International
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-name="Radiowa Czworka" tvg-logo="https://i.imgur.com/VAtxF7k.png" group-title="国外·波兰",Radiowa Czworka
@@ -1107,6 +1111,8 @@ https://online.tvimpact.live/hls/impact_tv2.m3u8
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-name="Impact TV Manele" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="国外·罗马尼亚",Impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-name="Kanal D2" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="国外·罗马尼亚",Kanal D2
+https://stream2.kanald.ro/iphone/knd2-live.m3u8
 #EXTINF:-1 tvg-name="Metropola TV" tvg-logo="https://i.imgur.com/Gzq05v8.png" group-title="国外·罗马尼亚",Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-name="Nostalgia TV" tvg-logo="https://assets.antenaplay.ro/2026/03/10/fX5tvuPLymvvR8lQmwO7.png" group-title="国外·罗马尼亚",Nostalgia TV
@@ -1201,6 +1207,8 @@ https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
 #EXTINF:-1 tvg-name="Taivas TV7" tvg-logo="https://i.imgur.com/JyJNiXy.png" group-title="国外·芬兰",Taivas TV7
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Yle TV2" tvg-logo="https://i.imgur.com/4xkc6PL.png" group-title="国外·芬兰",Yle TV2
+https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 #EXTINF:-1 tvg-name="TV Ostfold" tvg-logo="https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png" group-title="国外·挪威",TV Ostfold
 https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 tvg-name="ATG Live" tvg-logo="https://i.imgur.com/bPWFXkL.png" group-title="国外·瑞典",ATG Live
