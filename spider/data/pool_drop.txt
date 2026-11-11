@@ -1,2 +1,3 @@
 # host  until_ts   巡检判死后拉黑，到期后重新给机会
+home.amucn.net:8800 1794448923
 www.tk1986.top:8889 1794419762
