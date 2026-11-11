@@ -25,8 +25,6 @@ http://36.49.50.4:8800/rtp/239.37.0.201:5540
 http://36.49.50.4:8800/rtp/239.37.0.065:5540
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",延边卫视
 http://36.49.50.4:8800/rtp/239.37.0.116:5540
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",海南卫视
-http://36.49.50.4:8800/rtp/239.37.0.035:5540
 #EXTINF:-1 tvg-id="吉林影视" tvg-name="吉林影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%90%89%E6%9E%97%E5%BD%B1%E8%A7%86.png" group-title="影视频道",吉林影视
 http://36.49.50.4:8800/rtp/239.37.0.103:5540
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="电影频道",CHC动作电影
@@ -47,8 +45,6 @@ http://36.49.50.4:8800/rtp/239.37.0.076:5540
 http://36.49.50.4:8800/rtp/239.37.0.070:5540
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://i.imgur.com/mICAYWt.png" group-title="数字频道",老故事
 http://36.49.50.4:8800/rtp/239.37.0.113:5540
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="数字频道",茶频道
-http://36.49.50.4:8800/rtp/239.37.0.245:5540
 #EXTINF:-1 tvg-name="乾安综合" tvg-logo="https://zzf.new.tg/data/logos/29e15870aaf4.png" group-title="地方频道",乾安综合
 http://36.49.50.4:8800/rtp/239.37.0.181:5540
 #EXTINF:-1 tvg-name="公共" tvg-logo="https://zzf.new.tg/data/logos/9be5920fd5e9.png" group-title="地方频道",公共
