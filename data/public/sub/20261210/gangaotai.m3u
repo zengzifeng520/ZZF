@@ -17,10 +17,14 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86.png" group-title="港澳台",东森超视
 http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
+#EXTINF:-1 tvg-id="亚洲剧台" tvg-name="亚洲剧台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%BA%9A%E6%B4%B2%E7%94%B5%E8%A7%86.png" group-title="港澳台",亚洲剧台
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86.png" group-title="港澳台",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="港澳台",凤凰香港
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+#EXTINF:-1 tvg-id="创世电视" tvg-name="创世电视" tvg-logo="https://zzf.new.tg/data/logos/396e8b2cf9c7.png" group-title="港澳台",创世电视
+http://103.172.187.30:12000/stream/mytv/null-4/master.m3u8
 #EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/animalplanet.png" group-title="港澳台",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%8E%E8%A7%86.png" group-title="港澳台",华视
@@ -47,10 +51,14 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-id="美好生活电视" tvg-name="美好生活电视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%BE%8E%E5%A5%BD%E7%94%B5%E8%A7%86.png" group-title="港澳台",美好生活电视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-name="耀才财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%80%80%E6%89%8D%E8%B4%A2%E7%BB%8F.png" group-title="港澳台",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 #EXTINF:-1 tvg-name="音乐欣赏" tvg-logo="https://zzf.new.tg/data/logos/7c484e99bd06.png" group-title="港澳台",音乐欣赏
 http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",黄金翡翠台
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-name="Animax (HK)" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/Animax.png" group-title="港澳台",Animax (HK)
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/BBC%20Earth.png" group-title="港澳台",BBC Earth
