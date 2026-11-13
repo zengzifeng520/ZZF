@@ -179,8 +179,6 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="国外·印尼",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Dhamma TV" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="国外·印尼",Dhamma TV
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-name="Dhoho TV" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="国外·印尼",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Indonesiana.TV" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="国外·印尼",Indonesiana.TV
@@ -291,8 +289,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/q5pjJ2m.png" group-title="国外·澳大利亚",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 tvg-name="Ausbiz TV" tvg-logo="https://i.imgur.com/8vGGdB0.png" group-title="国外·澳大利亚",Ausbiz TV
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-name="C31 Melbourne" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="国外·澳大利亚",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 tvg-name="Channel 44" tvg-logo="https://i.imgur.com/P2wUGh9.png" group-title="国外·澳大利亚",Channel 44
@@ -653,8 +649,6 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 12" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="国外·俄罗斯",Channel 12
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
-#EXTINF:-1 tvg-name="Kongress TV" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="国外·俄罗斯",Kongress TV
-https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 #EXTINF:-1 tvg-name="Moskva 24" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="国外·俄罗斯",Moskva 24
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 tvg-name="Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="国外·俄罗斯",Prima
@@ -739,8 +733,6 @@ https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Nova Era TV" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="国外·巴西",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-name="Primer TV" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="国外·巴西",Primer TV
-http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/mttSwgO.png" group-title="国外·巴西",Rede Gospel
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede NGT" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="国外·巴西",Rede NGT
@@ -1199,8 +1191,6 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
 #EXTINF:-1 tvg-name="SABC News" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="国外·南非",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
-#EXTINF:-1 tvg-name="Soweto TV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="国外·南非",Soweto TV
-https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="WildEarth" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="国外·南非",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 #EXTINF:-1 tvg-name="Approval TV" tvg-logo="https://storage.approvaltv.com/2026/03/approvallogo.png" group-title="国外·尼日利亚",Approval TV
