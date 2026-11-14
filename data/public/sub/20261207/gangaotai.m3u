@@ -21,8 +21,6 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="港澳台",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="环球电视" tvg-logo="https://zzf.new.tg/data/logos/649c7e89ca95.png" group-title="港澳台",环球电视
-http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="纬来精采" tvg-name="纬来精采" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%BA%AC%E6%9D%A5%E7%B2%BE%E9%87%87.png" group-title="港澳台",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="美亚C+" tvg-logo="https://zzf.new.tg/data/logos/a4402298c978.png" group-title="港澳台",美亚C+

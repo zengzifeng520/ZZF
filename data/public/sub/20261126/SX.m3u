@@ -639,19 +639,19 @@ http://171.119.204.106:7000/rtp/226.0.2.48:8296
 http://171.127.248.93:8085/rtp/226.0.2.151:9120
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",黑龙江卫视
 http://171.127.248.93:8085/rtp/226.0.2.48:8296
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://124.165.232.26:8084/rtp/226.0.2.237:9808
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://124.165.232.26:8084/rtp/226.0.2.14:8024
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://171.119.204.106:7000/rtp/226.0.2.237:9808
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://171.119.204.106:7000/rtp/226.0.2.14:8024
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://171.127.248.93:8085/rtp/226.0.2.237:9808
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://171.127.248.93:8085/rtp/226.0.2.14:8024
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://jyb7928.host:8066/udp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="影视频道",都市剧场
 http://124.165.232.26:8084/rtp/226.0.2.81:8560
@@ -899,13 +899,13 @@ http://171.127.248.93:8085/rtp/226.0.2.127:8928
 http://61.134.254.2:9001/rtp/226.0.2.127:8928
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8.png" group-title="数字频道",环球旅游
 http://jyb7928.host:8066/udp/239.1.1.116:8116
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
 http://124.165.232.26:8084/rtp/226.0.2.84:8584
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
 http://171.119.204.106:7000/rtp/226.0.2.84:8584
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
 http://171.127.248.93:8085/rtp/226.0.2.84:8584
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
 http://61.134.254.2:9001/rtp/226.0.2.84:8584
 #EXTINF:-1 tvg-name="百姓健康" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%99%BE%E5%A7%93%E5%81%A5%E5%BA%B7.png" group-title="数字频道",百姓健康
 http://124.165.232.26:8084/rtp/226.0.2.132:8968
@@ -1075,19 +1075,19 @@ http://171.127.248.93:8085/rtp/226.0.2.16:8040
 http://171.127.248.93:8085/rtp/226.0.2.190:9432
 #EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://zzf.new.tg/data/logos/71545e65640d.png" group-title="地方频道",山西文体生活
 http://jyb7928.host:8066/udp/239.1.1.6:8006
-#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
 http://124.165.232.26:8084/rtp/226.0.2.238:9816
-#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
 http://124.165.232.26:8084/rtp/226.0.2.15:8032
-#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
 http://171.119.204.106:7000/rtp/226.0.2.238:9816
-#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
 http://171.119.204.106:7000/rtp/226.0.2.15:8032
-#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
 http://171.127.248.93:8085/rtp/226.0.2.238:9816
-#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
 http://171.127.248.93:8085/rtp/226.0.2.15:8032
-#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E6%B2%BB.png" group-title="地方频道",山西社会与法治
 http://jyb7928.host:8066/udp/239.1.1.5:8005
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E7%BB%8F%E6%B5%8E%E4%B8%8E%E7%A7%91%E6%8A%80.png" group-title="地方频道",山西经济与科技
 http://124.165.232.26:8084/rtp/226.0.2.236:9800
