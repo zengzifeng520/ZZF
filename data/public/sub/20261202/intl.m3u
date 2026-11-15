@@ -299,8 +299,6 @@ https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 #EXTINF:-1 tvg-name="INTV Australia" tvg-logo="https://i.imgur.com/1nJl0Pv.png" group-title="国外·澳大利亚",INTV Australia
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 tvg-name="JonmoBhumi TV" tvg-logo="https://i.imgur.com/2snahLk.png" group-title="国外·澳大利亚",JonmoBhumi TV
-https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Mission Asia" tvg-logo="https://i.imgur.com/B5mKwF6.png" group-title="国外·澳大利亚",Mission Asia
 https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="News24" tvg-logo="https://i.imgur.com/eG33jue.png" group-title="国外·澳大利亚",News24
@@ -313,8 +311,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-name="Sky Racing 1" tvg-logo="https://i.imgur.com/Hf0EiaW.png" group-title="国外·澳大利亚",Sky Racing 1
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
-#EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="国外·澳大利亚",TVSN
-https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-name="Firstlight" tvg-logo="https://i.imgur.com/gtDROeT.png" group-title="国外·新西兰",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kordia TV" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="国外·新西兰",Kordia TV
@@ -339,8 +335,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-name="Amazing Facts TV" tvg-logo="https://i.imgur.com/3XrLoCF.png" group-title="国外·美国",Amazing Facts TV
 https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
-#EXTINF:-1 tvg-name="American Ninja Warrior" tvg-logo="https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png" group-title="国外·美国",American Ninja Warrior
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
 #EXTINF:-1 tvg-name="Ameritrade" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" group-title="国外·美国",Ameritrade
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Antiques Road Trip" tvg-logo="https://i.imgur.com/kkm7VqV.png" group-title="国外·美国",Antiques Road Trip
@@ -637,8 +631,6 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-name="Edessa TV" tvg-logo="https://i.imgur.com/rhU6j9I.png" group-title="国外·土耳其",Edessa TV
 https://canli.edessatv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Euro D" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="国外·土耳其",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-name="Halk TV" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="国外·土耳其",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-name="HTSpor TV" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="国外·土耳其",HTSpor TV
@@ -805,8 +797,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="国外·巴基斯坦",Dunya News
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Fazal TV" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="国外·巴基斯坦",Fazal TV
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Grace Network" tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="国外·巴基斯坦",Grace Network
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Isaac TV" tvg-logo="https://i.imgur.com/RHDbsiO.png" group-title="国外·巴基斯坦",Isaac TV
@@ -819,8 +809,6 @@ https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Neo News" tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="国外·巴基斯坦",Neo News
 https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
-#EXTINF:-1 tvg-name="PMI TV" tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="国外·巴基斯坦",PMI TV
-https://cdn.live247stream.com/pmi/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Praise TV" tvg-logo="https://i.imgur.com/i0hPb1s.jpeg" group-title="国外·巴基斯坦",Praise TV
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Matribhumi TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg" group-title="国外·孟加拉",Matribhumi TV
@@ -865,8 +853,6 @@ http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Red Carpet TV International" tvg-logo="https://i.imgur.com/xf7UXCA.png" group-title="国外·波兰",Red Carpet TV International
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
-#EXTINF:-1 tvg-name="TV Puls" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="国外·波兰",TV Puls
-https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-name="TV Torun" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" group-title="国外·波兰",TV Torun
 http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ADB TV" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="国外·葡萄牙",ADB TV
@@ -1071,8 +1057,6 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Swamiji TV European" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="国外·奥地利",Swamiji TV European
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 1 Oberosterreich" tvg-logo="https://i.imgur.com/KbMkEIn.png" group-title="国外·奥地利",TV 1 Oberosterreich
-https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 #EXTINF:-1 tvg-name="Canal Alpha Jura" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="国外·瑞士",Canal Alpha Jura
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Alpha Neuchatel" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="国外·瑞士",Canal Alpha Neuchatel
@@ -1123,8 +1107,6 @@ https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
 #EXTINF:-1 tvg-name="Taivas TV7" tvg-logo="https://i.imgur.com/JyJNiXy.png" group-title="国外·芬兰",Taivas TV7
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Yle Teema & Fem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png" group-title="国外·芬兰",Yle Teema & Fem
-https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 #EXTINF:-1 tvg-name="Yle TV2" tvg-logo="https://i.imgur.com/4xkc6PL.png" group-title="国外·芬兰",Yle TV2
 https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 #EXTINF:-1 tvg-name="TV Ostfold" tvg-logo="https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png" group-title="国外·挪威",TV Ostfold
@@ -1143,8 +1125,6 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
 #EXTINF:-1 tvg-name="SABC News" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="国外·南非",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
-#EXTINF:-1 tvg-name="Tshwane TV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="国外·南非",Tshwane TV
-https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="WildEarth" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="国外·南非",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 #EXTINF:-1 tvg-name="Approval TV" tvg-logo="https://storage.approvaltv.com/2026/03/approvallogo.png" group-title="国外·尼日利亚",Approval TV
@@ -1191,7 +1171,5 @@ https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-name="i24NEWS Hebrew" tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="国外·以色列",i24NEWS Hebrew
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-name="Makan 33" tvg-logo="https://i.imgur.com/RVtQTed.png" group-title="国外·以色列",Makan 33
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-name="Now 14" tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="国外·以色列",Now 14
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
