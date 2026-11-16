@@ -1,10 +1,22 @@
 #EXTM3U x-tvg-url="https://zzf.new.tg/epg.xml" url-tvg="https://zzf.new.tg/epg.xml"
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV5%2B.png" group-title="央视频道",CCTV-5+
 http://122.242.240.71:8001/udp/233.50.201.220:5140
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV6.png" group-title="央视频道",CCTV-6
+http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.18:5140
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV8.png" group-title="央视频道",CCTV-8
+http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.19:5140
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV17.png" group-title="央视频道",CCTV-17
+http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.35:5140
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
 http://122.242.240.71:8001/udp/233.50.201.39:5140
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
+http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.39:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
 http://122.242.240.71:8001/udp/233.50.201.37:5140
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
+http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.37:5140
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
+http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.36:5140
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视频道",CGTN阿语
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.38:5140
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",云南卫视
@@ -133,8 +145,6 @@ http://122.242.240.71:8001/udp/233.50.200.124:5140
 http://122.242.240.71:8001/udp/233.50.201.188:5140
 #EXTINF:-1 tvg-name="ymg新闻" group-title="地方频道",ymg新闻
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.159:5140
-#EXTINF:-1 tvg-name="ymg新闻" group-title="地方频道",ymg新闻
-http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.159:5140
 #EXTINF:-1 tvg-name="临平新闻" tvg-logo="https://zzf.new.tg/data/logos/09123f1d3fef.png" group-title="地方频道",临平新闻
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.32:5140
 #EXTINF:-1 tvg-name="临平新闻" tvg-logo="https://zzf.new.tg/data/logos/09123f1d3fef.png" group-title="地方频道",临平新闻
