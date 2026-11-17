@@ -91,7 +91,7 @@ http://60.0.97.175:9999/rtp/239.253.93.195:6373
 http://60.0.97.175:9999/rtp/239.253.93.199:6377
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
 http://60.0.97.175:9999/rtp/239.253.93.197:6375
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://60.0.97.175:9999/rtp/239.253.93.196:6374
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视频道",CGTN阿语
 http://60.0.97.175:9999/rtp/239.253.93.198:6376
@@ -131,7 +131,7 @@ http://60.0.97.175:9999/rtp/239.253.92.10:6053
 http://60.0.97.175:9999/rtp/239.253.92.163:8055
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",黑龙江卫视
 http://60.0.97.175:9999/rtp/239.253.92.85:8016
-#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8C%97%E5%BD%B1%E8%A7%86%E5%89%A7.png" group-title="影视频道",河北影视
+#EXTINF:-1 tvg-name="河北影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8C%97%E5%BD%B1%E8%A7%86%E5%89%A7.png" group-title="影视频道",河北影视
 http://60.0.97.175:9999/rtp/239.253.92.173:6003
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="影视频道",都市剧场
 http://60.0.97.175:9999/rtp/239.253.93.227:6405
@@ -193,7 +193,7 @@ http://60.0.97.175:9999/rtp/239.253.93.222:6400
 http://60.0.97.175:9999/rtp/239.253.92.130:8069
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8.png" group-title="数字频道",环球旅游
 http://60.0.97.175:9999/rtp/239.253.93.220:6398
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
 http://60.0.97.175:9999/rtp/239.253.93.226:6404
 #EXTINF:-1 tvg-name="百姓健康" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%99%BE%E5%A7%93%E5%81%A5%E5%BA%B7.png" group-title="数字频道",百姓健康
 http://60.0.97.175:9999/rtp/239.253.92.199:6568

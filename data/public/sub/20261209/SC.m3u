@@ -9,11 +9,11 @@ http://118.121.58.80:2121/udp/239.94.1.62:5140
 http://118.121.58.80:2121/udp/239.94.1.66:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
 http://118.121.58.80:2121/udp/239.94.2.238:5140
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://118.121.58.80:2121/udp/239.94.1.61:5140
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://118.121.58.80:2121/udp/239.94.1.65:5140
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://118.121.58.80:2121/udp/239.94.2.237:5140
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",三沙卫视
 http://118.121.58.80:2121/udp/239.94.0.105:5140
@@ -559,13 +559,13 @@ http://vpn.ydcb.top:40000/udp/239.94.0.174:5140
 http://www.893224162.xyz:8188/udp/239.94.0.174:5140
 #EXTINF:-1 tvg-name="眉山文旅乡村" tvg-logo="https://zzf.new.tg/data/logos/f2ecf0b338bb.png" group-title="地方频道",眉山文旅乡村
 http://xmzj.f3322.net:8188/udp/239.94.0.174:5140
-#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://zzf.new.tg/data/logos/7f35c52c0047.png" group-title="地方频道",眉山综合
+#EXTINF:-1 tvg-id="眉山综合" tvg-name="眉山综合" tvg-logo="https://zzf.new.tg/data/logos/7f35c52c0047.png" group-title="地方频道",眉山综合
 http://118.121.58.80:2121/udp/239.94.0.170:5140
-#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://zzf.new.tg/data/logos/7f35c52c0047.png" group-title="地方频道",眉山综合
+#EXTINF:-1 tvg-id="眉山综合" tvg-name="眉山综合" tvg-logo="https://zzf.new.tg/data/logos/7f35c52c0047.png" group-title="地方频道",眉山综合
 http://vpn.ydcb.top:40000/udp/239.94.0.170:5140
-#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://zzf.new.tg/data/logos/7f35c52c0047.png" group-title="地方频道",眉山综合
+#EXTINF:-1 tvg-id="眉山综合" tvg-name="眉山综合" tvg-logo="https://zzf.new.tg/data/logos/7f35c52c0047.png" group-title="地方频道",眉山综合
 http://www.893224162.xyz:8188/udp/239.94.0.170:5140
-#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://zzf.new.tg/data/logos/7f35c52c0047.png" group-title="地方频道",眉山综合
+#EXTINF:-1 tvg-id="眉山综合" tvg-name="眉山综合" tvg-logo="https://zzf.new.tg/data/logos/7f35c52c0047.png" group-title="地方频道",眉山综合
 http://xmzj.f3322.net:8188/udp/239.94.0.170:5140
 #EXTINF:-1 tvg-name="自贡文化生活" tvg-logo="https://zzf.new.tg/data/logos/ce947e9ec536.png" group-title="地方频道",自贡文化生活
 http://118.121.58.80:2121/udp/239.94.0.178:5140
@@ -575,13 +575,13 @@ http://vpn.ydcb.top:40000/udp/239.94.0.178:5140
 http://www.893224162.xyz:8188/udp/239.94.0.178:5140
 #EXTINF:-1 tvg-name="自贡文化生活" tvg-logo="https://zzf.new.tg/data/logos/ce947e9ec536.png" group-title="地方频道",自贡文化生活
 http://xmzj.f3322.net:8188/udp/239.94.0.178:5140
-#EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://zzf.new.tg/data/logos/afe89b5af5e8.png" group-title="地方频道",自贡综合
+#EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://zzf.new.tg/data/logos/afe89b5af5e8.png" group-title="地方频道",自贡综合
 http://118.121.58.80:2121/udp/239.94.0.169:5140
-#EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://zzf.new.tg/data/logos/afe89b5af5e8.png" group-title="地方频道",自贡综合
+#EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://zzf.new.tg/data/logos/afe89b5af5e8.png" group-title="地方频道",自贡综合
 http://vpn.ydcb.top:40000/udp/239.94.0.169:5140
-#EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://zzf.new.tg/data/logos/afe89b5af5e8.png" group-title="地方频道",自贡综合
+#EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://zzf.new.tg/data/logos/afe89b5af5e8.png" group-title="地方频道",自贡综合
 http://www.893224162.xyz:8188/udp/239.94.0.169:5140
-#EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://zzf.new.tg/data/logos/afe89b5af5e8.png" group-title="地方频道",自贡综合
+#EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://zzf.new.tg/data/logos/afe89b5af5e8.png" group-title="地方频道",自贡综合
 http://xmzj.f3322.net:8188/udp/239.94.0.169:5140
 #EXTINF:-1 tvg-name="西藏藏语" group-title="地方频道",西藏藏语
 http://zhgx.app.sccncd.com:80/rtp/239.0.0.105:5140

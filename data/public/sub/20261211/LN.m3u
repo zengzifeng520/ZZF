@@ -137,9 +137,9 @@ http://119.114.57.68:4022/rtp/232.0.0.198:1234
 http://123.190.227.219:9007/rtp/232.0.0.198:1234
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 http://fb4wd00001.f3322.net:1111/rtp/232.0.0.198:1234
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://119.114.57.68:4022/rtp/232.0.0.6:1234
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://123.190.227.219:9007/rtp/232.0.0.6:1234
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视频道",CGTN阿语
 http://119.114.57.68:4022/rtp/232.0.0.43:1234
@@ -295,9 +295,9 @@ http://123.190.227.219:9007/rtp/232.0.0.98:1234
 http://119.114.57.68:4022/rtp/232.0.0.127:1234
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" group-title="数字频道",游戏风云
 http://123.190.227.219:9007/rtp/232.0.0.127:1234
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
 http://119.114.57.68:4022/rtp/232.0.0.107:1234
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="数字频道",生活时尚
 http://123.190.227.219:9007/rtp/232.0.0.107:1234
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://zzf.new.tg/data/logos/d26fa4594f45.png" group-title="地方频道",上海纪实
 http://101.wifi98.com:9001/rtp/232.0.0.132:1234
