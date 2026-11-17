@@ -129,6 +129,8 @@ http://60.0.97.175:9999/rtp/239.253.92.115:6056
 http://60.0.97.175:9999/rtp/239.253.92.10:6053
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="卫视频道",金鹰卡通
 http://60.0.97.175:9999/rtp/239.253.92.163:8055
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",黑龙江卫视
+http://60.0.97.175:9999/rtp/239.253.92.85:8016
 #EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8C%97%E5%BD%B1%E8%A7%86%E5%89%A7.png" group-title="影视频道",河北影视
 http://60.0.97.175:9999/rtp/239.253.92.173:6003
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="影视频道",都市剧场
