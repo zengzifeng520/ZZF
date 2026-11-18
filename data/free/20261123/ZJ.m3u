@@ -36,8 +36,6 @@ http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.122:5140
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV10.png" group-title="央视频道",CCTV-10
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.10:5140
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV11.png" group-title="央视频道",CCTV-11
-http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.11:5140
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV11.png" group-title="央视频道",CCTV-11
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.11:5140
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV12.png" group-title="央视频道",CCTV-12
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.123:5140
@@ -54,17 +52,19 @@ http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.14:5140
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV15.png" group-title="央视频道",CCTV-15
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.15:5140
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV17.png" group-title="央视频道",CCTV-17
-http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.35:5140
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV17.png" group-title="央视频道",CCTV-17
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.35:5140
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
 http://family-ph.vividnian.com:8188/udp/233.50.201.39:5140
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
+http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.39:5140
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.39:5140
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
 http://zjhuct.icu:8889/udp/233.50.201.39:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
 http://family-ph.vividnian.com:8188/udp/233.50.201.37:5140
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
+http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.37:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.37:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
@@ -89,14 +89,8 @@ http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.148:5140
 http://family-ph.vividnian.com:8188/udp/233.50.201.74:5140
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png" group-title="卫视频道",哈哈炫动
 http://zjhuct.icu:8889/udp/233.50.201.74:5140
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",宁夏卫视
-http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.45:5140
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",宁夏卫视
-http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.57:5140
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",山西卫视
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.51:5140
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",新疆卫视
-http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.46:5140
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",海南卫视
 http://family-ph.vividnian.com:8188/udp/233.50.201.55:5140
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",海南卫视
@@ -105,8 +99,6 @@ http://zjhuct.icu:8889/udp/233.50.201.55:5140
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.149:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",西藏卫视
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.43:5140
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",西藏卫视
-http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.70:5140
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",陕西卫视
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.59:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",青海卫视
@@ -123,8 +115,6 @@ http://zjhuct.icu:8889/udp/233.50.200.11:5140
 http://zjhuct.icu:8889/udp/233.50.201.190:5140
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="少儿频道",动漫秀场
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.184:5140
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
-http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.33:5140
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png" group-title="少儿频道",浙江少儿
 http://family-ph.vividnian.com:8188/udp/233.50.201.138:5140
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png" group-title="少儿频道",浙江少儿
@@ -161,8 +151,6 @@ http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="港澳频道",凤凰资讯
 http://zjhuct.icu:8889/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="国教频道",中国教育4
-http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.172:5140
 #EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="国教频道",中国教育4
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.172:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://i.imgur.com/QcO5Gxl.png" group-title="主题频道",法治天地
@@ -207,8 +195,6 @@ http://family-ph.vividnian.com:8188/udp/233.50.201.188:5140
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.188:5140
 #EXTINF:-1 tvg-name="ymg新闻" group-title="地方频道",ymg新闻
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.159:5140
-#EXTINF:-1 tvg-name="ymg新闻" group-title="地方频道",ymg新闻
-http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.159:5140
 #EXTINF:-1 tvg-name="临平新闻" tvg-logo="https://zzf.new.tg/data/logos/09123f1d3fef.png" group-title="地方频道",临平新闻
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.32:5140
 #EXTINF:-1 tvg-name="临平新闻" tvg-logo="https://zzf.new.tg/data/logos/09123f1d3fef.png" group-title="地方频道",临平新闻
