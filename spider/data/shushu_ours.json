@@ -32560,5 +32560,14 @@
     "multicast_id": "238.1.79.19:4264"
    }
   ]
+ },
+ {
+  "ip": "yulang132.cn",
+  "port": 4022,
+  "type": "multicast",
+  "location": "未知地址",
+  "isp": "",
+  "channel_count": 0,
+  "channels": []
  }
 ]
