@@ -143,14 +143,10 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 #EXTINF:-1 tvg-name="Dong Nai TV 2" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="国外·越南",Dong Nai TV 2
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
-#EXTINF:-1 tvg-name="Ha Tinh TV" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="国外·越南",Ha Tinh TV
-https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 #EXTINF:-1 tvg-name="Lao Cai TV" tvg-logo="https://i.imgur.com/TLvrDHa.png" group-title="国外·越南",Lao Cai TV
 https://live.baolaocai.vn/channel2/stream.m3u8
 #EXTINF:-1 tvg-name="Nghe An TV" tvg-logo="https://i.imgur.com/d9YEEwC.png" group-title="国外·越南",Nghe An TV
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
-#EXTINF:-1 tvg-name="ON Vie Giai Tri" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png" group-title="国外·越南",ON Vie Giai Tri
-https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-name="Quang Ngai TV" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="国外·越南",Quang Ngai TV
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 #EXTINF:-1 tvg-name="SCTV11" tvg-logo="https://i.imgur.com/ZmFfy9o.png" group-title="国外·越南",SCTV11
@@ -187,8 +183,6 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Efarina TV" tvg-logo="https://i.imgur.com/iYTimXh.png" group-title="国外·印尼",Efarina TV
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
-#EXTINF:-1 tvg-name="Jek TV" tvg-logo="https://i.imgur.com/wh75d1f.png" group-title="国外·印尼",Jek TV
-http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="JTV" tvg-logo="https://i.imgur.com/byss0Ld.png" group-title="国外·印尼",JTV
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Kawanua TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="国外·印尼",Kawanua TV
@@ -211,8 +205,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Okey" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="国外·马来西亚",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-#EXTINF:-1 tvg-name="RTM Parlimen Dewan Rakyat" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png" group-title="国外·马来西亚",RTM Parlimen Dewan Rakyat
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 tvg-name="TV1" tvg-logo="https://i.imgur.com/nYVqhu8.png" group-title="国外·马来西亚",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 tvg-name="SMNI" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="国外·菲律宾",SMNI
@@ -433,8 +425,6 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Qello Concerts by Stingray" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="国外·加拿大",Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="Sooriyan TV" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="国外·加拿大",Sooriyan TV
-https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-name="Stingray Classica" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="国外·加拿大",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="Stingray Everything '80s" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="国外·加拿大",Stingray Everything '80s
@@ -475,8 +465,6 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="国外·德国",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="Deluxe Rap" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="国外·德国",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-name="EWTN" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="国外·德国",EWTN
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Franken Fernsehen" tvg-logo="https://i.imgur.com/3pGGLLD.png" group-title="国外·德国",Franken Fernsehen
@@ -611,8 +599,6 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="国外·俄罗斯",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-name="RT en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" group-title="国外·俄罗斯",RT en Espanol
-http://168.196.127.137:6001/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-name="Russia-1" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="国外·俄罗斯",Russia-1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-name="Russia-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="国外·俄罗斯",Russia-24
@@ -667,8 +653,6 @@ https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="国外·土耳其",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TV 264" tvg-logo="https://i.imgur.com/tudXdOZ.png" group-title="国外·土耳其",TV 264
-https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="+MaisUm" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" group-title="国外·巴西",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" group-title="国外·巴西",AgroCanal
@@ -713,12 +697,6 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="国外·墨西哥",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-name="B15 Fresnillo" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="国外·墨西哥",B15 Fresnillo
-https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-#EXTINF:-1 tvg-name="B15 Zacatecas" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="国外·墨西哥",B15 Zacatecas
-https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
-#EXTINF:-1 tvg-name="BAMOS TV" tvg-logo="https://i.imgur.com/ntK4D64.png" group-title="国外·墨西哥",BAMOS TV
-https://video2.getstreamhosting.com:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="国外·墨西哥",Canal 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 TV Cozumel" tvg-logo="https://i.imgur.com/0nzNMuP.jpeg" group-title="国外·墨西哥",Canal 5 TV Cozumel
@@ -819,10 +797,6 @@ https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
 #EXTINF:-1 tvg-name="Praise TV" tvg-logo="https://i.imgur.com/i0hPb1s.jpeg" group-title="国外·巴基斯坦",Praise TV
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png" group-title="国外·孟加拉",RTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
-#EXTINF:-1 tvg-name="Rupashi Bangla TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="国外·孟加拉",Rupashi Bangla TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="KTK" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="国外·哈萨克",KTK
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon CIS" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="国外·哈萨克",Nickelodeon CIS
@@ -857,8 +831,6 @@ http://88.212.15.50/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
 #EXTINF:-1 tvg-name="NewTV" tvg-logo="https://i.imgur.com/vU5Yt5A.png" group-title="国外·波兰",NewTV
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
-#EXTINF:-1 tvg-name="Polsat Viasat History" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="国外·波兰",Polsat Viasat History
-http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 #EXTINF:-1 tvg-name="Radiowa Czworka" tvg-logo="https://i.imgur.com/VAtxF7k.png" group-title="国外·波兰",Radiowa Czworka
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Red Carpet TV International" tvg-logo="https://i.imgur.com/xf7UXCA.png" group-title="国外·波兰",Red Carpet TV International
@@ -923,10 +895,6 @@ https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 #EXTINF:-1 tvg-name="Islita TV" tvg-logo="https://i.imgur.com/YGLbCeC.png" group-title="国外·智利",Islita TV
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
-#EXTINF:-1 tvg-name="La Metro TV" tvg-logo="https://i.imgur.com/0aoI5Zd.jpeg" group-title="国外·智利",La Metro TV
-https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="La Nuestra" tvg-logo="https://i.imgur.com/WExojSG.png" group-title="国外·智利",La Nuestra
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NCTV" tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="国外·智利",NCTV
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Oli TV" tvg-logo="https://i.imgur.com/2emMRvf.jpeg" group-title="国外·智利",Oli TV
@@ -937,14 +905,10 @@ https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Aupur Television" tvg-logo="https://i.imgur.com/FTv7zpJ.jpeg" group-title="国外·哥伦比亚",Aupur Television
 https://canal.aupurtv.co/live/stream/index.m3u8
-#EXTINF:-1 tvg-name="Cablenoticias" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="国外·哥伦比亚",Cablenoticias
-http://181.78.211.244:8005/play/a09u/index.m3u8
 #EXTINF:-1 tvg-name="Canal Oracion Con Son" tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="国外·哥伦比亚",Canal Oracion Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 #EXTINF:-1 tvg-name="CMB Television" tvg-logo="https://i.imgur.com/akGKPsk.png" group-title="国外·哥伦比亚",CMB Television
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
-#EXTINF:-1 tvg-name="CNC Medellin" tvg-logo="https://i.imgur.com/J1f4fNq.png" group-title="国外·哥伦比亚",CNC Medellin
-http://138.94.3.106:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-name="Latina" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="国外·秘鲁",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Latina Clasicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="国外·秘鲁",Latina Clasicos
@@ -981,8 +945,6 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-name="UTV" tvg-logo="https://i.imgur.com/MrWB4Gc.png" group-title="国外·捷克",UTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-name="Action 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="国外·希腊",Action 24
-http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="Aeolos TV" tvg-logo="https://i.imgur.com/4G9VvUg.png" group-title="国外·希腊",Aeolos TV
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Baraza TV" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="国外·希腊",Baraza TV
@@ -1117,8 +1079,6 @@ https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7q
 http://sdream.info:8080/hls/livestream/index.m3u8
 #EXTINF:-1 tvg-name="Himlen TV7" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="国外·芬兰",Himlen TV7
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/rmV8LO1.png" group-title="国外·芬兰",MTV Sub
-https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:-1 tvg-name="Nar-TV" tvg-logo="https://i.imgur.com/Ht5yePq.png" group-title="国外·芬兰",Nar-TV
 https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Navahang TV" tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="国外·芬兰",Navahang TV
@@ -1173,10 +1133,6 @@ https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m
 https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Qausain TV" tvg-logo="https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png" group-title="国外·尼日利亚",Qausain TV
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
-#EXTINF:-1 tvg-name="TV-WEST" tvg-logo="https://i.imgur.com/5IDb9fk.png" group-title="国外·尼日利亚",TV-WEST
-https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Wazobia Max TV Port-Harcourt" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="国外·尼日利亚",Wazobia Max TV Port-Harcourt
-https://wazobia.live:8333/channel/wmaxph.m3u8
 #EXTINF:-1 tvg-name="Aghapy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" group-title="国外·埃及",Aghapy TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Ghad TV" tvg-logo="https://i.imgur.com/ga6NXb9.png" group-title="国外·埃及",Al Ghad TV
