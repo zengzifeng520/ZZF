@@ -135,19 +135,19 @@ http://happy2015.synology.me:4000/rtp/239.3.1.218:4220
 http://n2.192372.xyz:8888/rtp/239.3.1.218:4220
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
 http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.218:4220
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 http://114.250.20.79:4022/rtp/239.3.1.216:4220
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 http://61.49.164.102:1314/rtp/239.3.1.216:4220
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 http://bit.famcloud.top:9878/rtp/239.3.1.216:4220
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 http://happy2015.synology.me:4000/rtp/239.3.1.216:4220
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 http://n2.192372.xyz:8888/rtp/239.3.1.216:4220
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.216:4220
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 http://vpn.famcloud.top:9878/rtp/239.3.1.216:4220
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://114.250.20.79:4022/rtp/239.3.1.217:4220
@@ -631,17 +631,17 @@ http://n2.192372.xyz:8888/rtp/239.3.1.69:4120
 http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.69:4120
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CIBN%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png" group-title="影视频道",古装剧场
 http://vpn.famcloud.top:9878/rtp/239.3.1.69:4120
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
 http://114.250.20.79:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
 http://61.49.164.102:1314/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
 http://bit.famcloud.top:9878/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
 http://happy2015.synology.me:4000/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
 http://n2.192372.xyz:8888/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="少儿频道",卡酷少儿
 http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%BA%AA%E5%AE%9E%E4%BA%BA%E6%96%87.png" group-title="纪实频道",上海纪实人文
 http://114.250.20.79:4022/rtp/239.3.1.212:8060
@@ -779,17 +779,17 @@ http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.115:8000
 http://vpn.famcloud.top:9878/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="北京门头沟" tvg-logo="https://zzf.new.tg/data/logos/7924b4db76fc.png" group-title="地方频道",北京门头沟
 http://114.250.20.79:4022/rtp/239.3.1.59:8001
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
 http://61.49.164.102:1314/rtp/239.3.1.52:4120
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
 http://bit.famcloud.top:9878/rtp/239.3.1.52:4120
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
 http://happy2015.synology.me:4000/rtp/239.3.1.52:4120
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
 http://n2.192372.xyz:8888/rtp/239.3.1.52:4120
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
 http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.52:4120
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育
 http://vpn.famcloud.top:9878/rtp/239.3.1.52:4120
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育卫视
 http://114.250.20.79:4022/rtp/239.3.1.52:4120
