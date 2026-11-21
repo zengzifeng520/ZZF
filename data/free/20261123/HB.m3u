@@ -7,18 +7,12 @@ http://hiliu.myds.me:18088/rtp/239.254.96.154:8998
 http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.102:10250
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV2.png" group-title="央视频道",CCTV-2
 http://ikuai.hanxiaowang.win:3344/rtp/239.254.96.154:8998
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV2.png" group-title="央视频道",CCTV-2
-http://www.ct123.online:8188/rtp/239.69.1.102:10250
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV2.png" group-title="央视频道",CCTV-2
-http://www.ct123.online:8188/rtp/239.254.96.154:8998
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV3.png" group-title="央视频道",CCTV-3
 http://hiliu.myds.me:18088/rtp/239.69.1.122:10370
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV3.png" group-title="央视频道",CCTV-3
 http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.122:10370
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV3.png" group-title="央视频道",CCTV-3
 http://www.3872327.top:1225/rtp/239.69.1.122:10370
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV3.png" group-title="央视频道",CCTV-3
-http://www.ct123.online:8188/rtp/239.69.1.122:10370
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV4.png" group-title="央视频道",CCTV-4
 http://hiliu.myds.me:18088/rtp/239.69.1.138:10466
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV4.png" group-title="央视频道",CCTV-4
@@ -27,24 +21,16 @@ http://hiliu.myds.me:18088/rtp/239.254.96.155:9004
 http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.138:10466
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV4.png" group-title="央视频道",CCTV-4
 http://ikuai.hanxiaowang.win:3344/rtp/239.254.96.155:9004
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV4.png" group-title="央视频道",CCTV-4
-http://www.ct123.online:8188/rtp/239.69.1.138:10466
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV4.png" group-title="央视频道",CCTV-4
-http://www.ct123.online:8188/rtp/239.254.96.155:9004
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视频道",CCTV-4K
 http://hiliu.myds.me:18088/rtp/239.69.1.111:10304
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视频道",CCTV-4K
 http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.111:10304
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视频道",CCTV-4K
 http://www.3872327.top:1225/rtp/239.69.1.111:10304
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视频道",CCTV-4K
-http://www.ct123.online:8188/rtp/239.69.1.111:10304
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV5%2B.png" group-title="央视频道",CCTV-5
 http://hiliu.myds.me:18088/rtp/239.69.1.123:10376
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV5%2B.png" group-title="央视频道",CCTV-5
 http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.123:10376
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV5%2B.png" group-title="央视频道",CCTV-5
-http://www.ct123.online:8188/rtp/239.69.1.123:10376
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV5%2B.png" group-title="央视频道",CCTV-5+
 http://hiliu.myds.me:18088/rtp/239.254.96.234:9484
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV5%2B.png" group-title="央视频道",CCTV-5+
@@ -55,8 +41,6 @@ http://hiliu.myds.me:18088/rtp/239.69.1.124:10382
 http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.124:10382
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV6.png" group-title="央视频道",CCTV-6
 http://www.3872327.top:1225/rtp/239.69.1.124:10382
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV6.png" group-title="央视频道",CCTV-6
-http://www.ct123.online:8188/rtp/239.69.1.124:10382
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV7.png" group-title="央视频道",CCTV-7
 http://hiliu.myds.me:18088/rtp/239.69.1.103:10256
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV7.png" group-title="央视频道",CCTV-7
@@ -67,16 +51,12 @@ http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.103:10256
 http://ikuai.hanxiaowang.win:3344/rtp/239.254.96.156:9130
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV7.png" group-title="央视频道",CCTV-7
 http://www.ct123.online:8188/rtp/239.69.1.103:10256
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV7.png" group-title="央视频道",CCTV-7
-http://www.ct123.online:8188/rtp/239.254.96.156:9130
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV8.png" group-title="央视频道",CCTV-8
 http://hiliu.myds.me:18088/rtp/239.69.1.125:10388
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV8.png" group-title="央视频道",CCTV-8
 http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.125:10388
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV8.png" group-title="央视频道",CCTV-8
 http://www.3872327.top:1225/rtp/239.69.1.125:10388
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV8.png" group-title="央视频道",CCTV-8
-http://www.ct123.online:8188/rtp/239.69.1.125:10388
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV9.png" group-title="央视频道",CCTV-9
 http://hiliu.myds.me:18088/rtp/239.69.1.104:10262
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV9.png" group-title="央视频道",CCTV-9
@@ -85,10 +65,6 @@ http://hiliu.myds.me:18088/rtp/239.254.96.157:9016
 http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.104:10262
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV9.png" group-title="央视频道",CCTV-9
 http://ikuai.hanxiaowang.win:3344/rtp/239.254.96.157:9016
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV9.png" group-title="央视频道",CCTV-9
-http://www.ct123.online:8188/rtp/239.69.1.104:10262
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV9.png" group-title="央视频道",CCTV-9
-http://www.ct123.online:8188/rtp/239.254.96.157:9016
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV10.png" group-title="央视频道",CCTV-10
 http://hiliu.myds.me:18088/rtp/239.69.1.105:10268
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV10.png" group-title="央视频道",CCTV-10
@@ -159,8 +135,6 @@ http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.155:10566
 http://ikuai.hanxiaowang.win:3344/rtp/239.254.96.13:8052
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV15.png" group-title="央视频道",CCTV-15
 http://www.ct123.online:8188/rtp/239.69.1.155:10566
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV15.png" group-title="央视频道",CCTV-15
-http://www.ct123.online:8188/rtp/239.254.96.13:8052
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV16.png" group-title="央视频道",CCTV-16
 http://hiliu.myds.me:18088/rtp/239.69.1.12:9712
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV16.png" group-title="央视频道",CCTV-16
@@ -183,8 +157,6 @@ http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.152:10548
 http://ikuai.hanxiaowang.win:3344/rtp/239.69.1.153:10554
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV17.png" group-title="央视频道",CCTV-17
 http://www.ct123.online:8188/rtp/239.69.1.152:10548
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CCTV17.png" group-title="央视频道",CCTV-17
-http://www.ct123.online:8188/rtp/239.69.1.153:10554
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4oz.png" group-title="央视频道",CCTV4欧洲
 http://hiliu.myds.me:18088/rtp/239.69.1.231:11028
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4oz.png" group-title="央视频道",CCTV4欧洲
