@@ -153,9 +153,9 @@ http://122.5.194.152:8899/udp/239.21.1.10:5002
 http://122.5.194.152:8899/udp/239.21.2.30:5002
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="央视频道",CGTN
 http://122.6.63.128:8886/udp/239.21.1.10:5002
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
 http://122.5.194.152:8899/udp/239.21.2.35:5002
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
 http://122.6.63.128:8886/udp/239.21.2.35:5002
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
 http://122.5.194.152:8899/udp/239.21.2.33:5002
@@ -169,9 +169,9 @@ http://122.6.63.128:8886/udp/239.21.2.31:5002
 http://122.5.194.152:8899/udp/239.21.2.32:5002
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://122.6.63.128:8886/udp/239.21.2.32:5002
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视频道",CGTN阿语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视频道",CGTN阿语
 http://122.5.194.152:8899/udp/239.21.2.34:5002
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视频道",CGTN阿语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视频道",CGTN阿语
 http://122.6.63.128:8886/udp/239.21.2.34:5002
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",三沙卫视
 http://122.5.194.152:8899/udp/239.21.2.9:5002
@@ -465,9 +465,9 @@ http://122.6.63.128:8886/udp/239.21.1.237:5002
 http://122.5.194.152:8899/udp/239.21.1.250:5002
 #EXTINF:-1 tvg-name="冠县综合" group-title="地方频道",冠县综合
 http://122.6.63.128:8886/udp/239.21.1.250:5002
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方频道",北京纪实
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方频道",北京纪实
 http://122.5.194.152:8899/udp/239.21.1.172:5002
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方频道",北京纪实
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方频道",北京纪实
 http://122.6.63.128:8886/udp/239.21.1.172:5002
 #EXTINF:-1 tvg-name="单县综合" group-title="地方频道",单县综合
 http://122.5.194.152:8899/udp/239.21.2.21:5002
@@ -609,9 +609,9 @@ http://122.6.63.128:8886/udp/239.21.1.209:5002
 http://122.5.194.152:8899/udp/239.21.1.79:5002
 #EXTINF:-1 tvg-name="日照新闻" group-title="地方频道",日照新闻
 http://122.6.63.128:8886/udp/239.21.1.79:5002
-#EXTINF:-1 tvg-id="日照科教" tvg-name="日照科教" group-title="地方频道",日照科教
+#EXTINF:-1 tvg-name="日照科教" group-title="地方频道",日照科教
 http://122.5.194.152:8899/udp/239.21.1.80:5002
-#EXTINF:-1 tvg-id="日照科教" tvg-name="日照科教" group-title="地方频道",日照科教
+#EXTINF:-1 tvg-name="日照科教" group-title="地方频道",日照科教
 http://122.6.63.128:8886/udp/239.21.1.80:5002
 #EXTINF:-1 tvg-name="日照莒县tv" group-title="地方频道",日照莒县tv
 http://122.5.194.152:8899/udp/239.21.1.236:5002
