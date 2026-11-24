@@ -667,9 +667,9 @@ http://122.6.63.128:8886/udp/239.21.1.150:5002
 http://122.5.194.152:8899/udp/239.21.1.63:5002
 #EXTINF:-1 tvg-name="济南都市" tvg-logo="https://www.tvchinese.net/uploads/tv/jndspd.jpg" group-title="地方频道",济南都市
 http://122.6.63.128:8886/udp/239.21.1.63:5002
-#EXTINF:-1 tvg-name="济南鲁中" group-title="地方频道",济南鲁中
+#EXTINF:-1 tvg-id="济南鲁中" tvg-name="济南鲁中" group-title="地方频道",济南鲁中
 http://122.5.194.152:8899/udp/239.21.1.149:5002
-#EXTINF:-1 tvg-name="济南鲁中" group-title="地方频道",济南鲁中
+#EXTINF:-1 tvg-id="济南鲁中" tvg-name="济南鲁中" group-title="地方频道",济南鲁中
 http://122.6.63.128:8886/udp/239.21.1.149:5002
 #EXTINF:-1 tvg-name="济宁公共" group-title="地方频道",济宁公共
 http://122.5.194.152:8899/udp/239.21.2.20:5002
