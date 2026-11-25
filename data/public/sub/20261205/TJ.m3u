@@ -269,17 +269,17 @@ http://117.8.140.100:8834/udp/225.1.1.177:5002
 http://ak.cj022.com:10080/udp/225.1.1.177:5002
 #EXTINF:-1 tvg-name="天津小说广播" tvg-logo="https://zzf.new.tg/data/logos/f18b30f7dd4f.png" group-title="地方频道",天津小说广播
 http://home.techua.net:8000/udp/225.1.1.177:5002
-#EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E5%B0%91%E5%84%BF.png" group-title="地方频道",天津少儿
+#EXTINF:-1 tvg-name="天津少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E5%B0%91%E5%84%BF.png" group-title="地方频道",天津少儿
 http://117.8.140.100:8834/udp/225.1.1.125:5002
-#EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E5%B0%91%E5%84%BF.png" group-title="地方频道",天津少儿
+#EXTINF:-1 tvg-name="天津少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E5%B0%91%E5%84%BF.png" group-title="地方频道",天津少儿
 http://ak.cj022.com:10080/udp/225.1.1.125:5002
-#EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E5%B0%91%E5%84%BF.png" group-title="地方频道",天津少儿
+#EXTINF:-1 tvg-name="天津少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E5%B0%91%E5%84%BF.png" group-title="地方频道",天津少儿
 http://home.techua.net:8000/udp/225.1.1.125:5002
-#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E6%96%87%E8%89%BA.png" group-title="地方频道",天津文艺
+#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E6%96%87%E8%89%BA.png" group-title="地方频道",天津文艺
 http://117.8.140.100:8834/udp/225.1.1.131:5002
-#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E6%96%87%E8%89%BA.png" group-title="地方频道",天津文艺
+#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E6%96%87%E8%89%BA.png" group-title="地方频道",天津文艺
 http://ak.cj022.com:10080/udp/225.1.1.131:5002
-#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E6%96%87%E8%89%BA.png" group-title="地方频道",天津文艺
+#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E6%96%87%E8%89%BA.png" group-title="地方频道",天津文艺
 http://home.techua.net:8000/udp/225.1.1.131:5002
 #EXTINF:-1 tvg-name="天津文艺广播" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E6%96%87%E8%89%BA.png" group-title="地方频道",天津文艺广播
 http://117.8.140.100:8834/udp/225.1.1.171:5002
