@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://zzf.new.tg/epg.xml" url-tvg="https://zzf.new.tg/epg.xml"
+#EXTINF:-1 tvg-id="CCTV央视精品" tvg-name="CCTV央视精品" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png" group-title="央视频道",CCTV央视精品
+http://j1900.silicaite.top:58888/rtp/239.49.9.11:6000
+#EXTINF:-1 tvg-id="CCTV央视精品" tvg-name="CCTV央视精品" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png" group-title="央视频道",CCTV央视精品
+http://j1900.silicaite.top:58888/rtp/239.49.1.66:6000
 #EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",南方卫视
 http://j1900.silicaite.top:58888/rtp/239.49.1.249:6000
 #EXTINF:-1 tvg-name="上海体育" tvg-logo="https://zzf.new.tg/data/logos/f791105e9157.png" group-title="体育频道",上海体育
@@ -7,6 +11,14 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.175:6000
 http://j1900.silicaite.top:58888/rtp/239.49.1.180:6000
 #EXTINF:-1 tvg-name="北京体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="体育频道",北京体育
 http://j1900.silicaite.top:58888/rtp/239.49.8.202:6000
+#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="体育频道",江苏体育
+http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
+#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="体育频道",江苏体育
+http://j1900.silicaite.top:58888/rtp/239.49.1.19:6000
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86.png" group-title="影视频道",江苏影视
+http://j1900.silicaite.top:58888/rtp/239.49.8.118:8000
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86.png" group-title="影视频道",江苏影视
+http://j1900.silicaite.top:58888/rtp/239.49.1.20:6000
 #EXTINF:-1 tvg-name="华语影院" tvg-logo="https://zzf.new.tg/data/logos/904b0a4995b3.png" group-title="电影频道",华语影院
 http://j1900.silicaite.top:58888/rtp/239.49.1.196:6000
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8D%97%E4%BA%AC%E5%B0%91%E5%84%BF.png" group-title="少儿频道",南京少儿
@@ -17,12 +29,24 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.58:6000
 http://j1900.silicaite.top:58888/rtp/239.49.1.227:6000
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BD.png" group-title="数字频道",先锋乒羽
 http://j1900.silicaite.top:58888/rtp/239.49.1.233:6000
+#EXTINF:-1 tvg-name="东海新闻" tvg-logo="https://zzf.new.tg/data/logos/32843d0d62e2.png" group-title="地方频道",东海新闻
+http://j1900.silicaite.top:58888/rtp/239.49.9.48:6000
+#EXTINF:-1 tvg-name="东海新闻" tvg-logo="https://zzf.new.tg/data/logos/32843d0d62e2.png" group-title="地方频道",东海新闻
+http://j1900.silicaite.top:58888/rtp/239.49.1.136:6000
 #EXTINF:-1 tvg-id="南京信息" tvg-name="南京信息" tvg-logo="https://zzf.new.tg/data/logos/1ef0459554a7.png" group-title="地方频道",南京信息
 http://j1900.silicaite.top:58888/rtp/239.49.8.223:6000
+#EXTINF:-1 tvg-id="南京十八" tvg-name="南京十八" tvg-logo="https://zzf.new.tg/data/logos/3aab2dbd5215.png" group-title="地方频道",南京十八
+http://j1900.silicaite.top:58888/rtp/239.49.9.4:6000
+#EXTINF:-1 tvg-id="南京十八" tvg-name="南京十八" tvg-logo="https://zzf.new.tg/data/logos/3aab2dbd5215.png" group-title="地方频道",南京十八
+http://j1900.silicaite.top:58888/rtp/239.49.1.157:6000
 #EXTINF:-1 tvg-name="南京娱乐" tvg-logo="https://zzf.new.tg/data/logos/6fdbd2e26b13.png" group-title="地方频道",南京娱乐
 http://j1900.silicaite.top:58888/rtp/239.49.8.229:6000
 #EXTINF:-1 tvg-name="南京影视" tvg-logo="https://zzf.new.tg/data/logos/147096d2c463.png" group-title="地方频道",南京影视
 http://j1900.silicaite.top:58888/rtp/239.49.8.228:6000
+#EXTINF:-1 tvg-name="南京新闻" tvg-logo="https://zzf.new.tg/data/logos/396e08907562.png" group-title="地方频道",南京新闻
+http://j1900.silicaite.top:58888/rtp/239.49.9.3:6000
+#EXTINF:-1 tvg-name="南京新闻" tvg-logo="https://zzf.new.tg/data/logos/396e08907562.png" group-title="地方频道",南京新闻
+http://j1900.silicaite.top:58888/rtp/239.49.1.158:6000
 #EXTINF:-1 tvg-name="南京生活" tvg-logo="https://zzf.new.tg/data/logos/2bd964d38d19.png" group-title="地方频道",南京生活
 http://j1900.silicaite.top:58888/rtp/239.49.1.28:6000
 #EXTINF:-1 tvg-name="南京科教" tvg-logo="https://zzf.new.tg/data/logos/777a6397e99e.png" group-title="地方频道",南京科教
@@ -57,16 +81,40 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.107:6000
 http://j1900.silicaite.top:58888/rtp/239.49.1.108:6000
 #EXTINF:-1 tvg-name="新沂综合" tvg-logo="https://zzf.new.tg/data/logos/c562dbbcc91e.png" group-title="地方频道",新沂综合
 http://j1900.silicaite.top:58888/rtp/239.49.1.228:6000
+#EXTINF:-1 tvg-name="水韵江苏" tvg-logo="https://zzf.new.tg/data/logos/9189b74fa461.png" group-title="地方频道",水韵江苏
+http://j1900.silicaite.top:58888/rtp/239.49.8.155:6000
+#EXTINF:-1 tvg-name="水韵江苏" tvg-logo="https://zzf.new.tg/data/logos/9189b74fa461.png" group-title="地方频道",水韵江苏
+http://j1900.silicaite.top:58888/rtp/239.49.8.157:6000
+#EXTINF:-1 tvg-name="水韵江苏" tvg-logo="https://zzf.new.tg/data/logos/9189b74fa461.png" group-title="地方频道",水韵江苏
+http://j1900.silicaite.top:58888/rtp/239.49.8.226:6000
 #EXTINF:-1 tvg-name="江苏公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB.png" group-title="地方频道",江苏公共
 http://j1900.silicaite.top:58888/rtp/239.49.1.22:6000
+#EXTINF:-1 tvg-name="江苏卡通" tvg-logo="https://zzf.new.tg/data/logos/f6264205aae0.png" group-title="地方频道",江苏卡通
+http://j1900.silicaite.top:58888/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-name="江苏卡通" tvg-logo="https://zzf.new.tg/data/logos/f6264205aae0.png" group-title="地方频道",江苏卡通
+http://j1900.silicaite.top:58888/rtp/239.49.1.21:6000
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85.png" group-title="地方频道",江苏国际
 http://j1900.silicaite.top:58888/rtp/239.49.1.23:6000
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82.png" group-title="地方频道",江苏城市
+http://j1900.silicaite.top:58888/rtp/239.49.8.107:8000
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82.png" group-title="地方频道",江苏城市
+http://j1900.silicaite.top:58888/rtp/239.49.1.17:6000
 #EXTINF:-1 tvg-name="江苏学习" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E5%AD%A6%E4%B9%A0.png" group-title="地方频道",江苏学习
 http://j1900.silicaite.top:58888/rtp/239.49.1.124:6000
 #EXTINF:-1 tvg-name="江苏导视" tvg-logo="https://zzf.new.tg/data/logos/5a4d499ae82a.png" group-title="地方频道",江苏导视
 http://j1900.silicaite.top:58888/rtp/239.49.8.150:6000
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2.png" group-title="地方频道",江苏教育
+http://j1900.silicaite.top:58888/rtp/239.49.8.122:8000
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2.png" group-title="地方频道",江苏教育
+http://j1900.silicaite.top:58888/rtp/239.49.9.42:6000
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2.png" group-title="地方频道",江苏教育
+http://j1900.silicaite.top:58888/rtp/239.49.1.25:6000
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://zzf.new.tg/data/logos/304a8798d430.png" group-title="地方频道",江苏新闻
 http://j1900.silicaite.top:58888/rtp/239.49.8.120:8000
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA.png" group-title="地方频道",江苏综艺
+http://j1900.silicaite.top:58888/rtp/239.49.8.108:8000
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA.png" group-title="地方频道",江苏综艺
+http://j1900.silicaite.top:58888/rtp/239.49.1.18:6000
 #EXTINF:-1 tvg-name="江苏购物" tvg-logo="https://zzf.new.tg/data/logos/94f4e8c16af2.png" group-title="地方频道",江苏购物
 http://j1900.silicaite.top:58888/rtp/239.49.1.24:6000
 #EXTINF:-1 tvg-name="江苏靓妆" tvg-logo="https://www.tvchinese.net/uploads/tv/jslz.jpg" group-title="地方频道",江苏靓妆
@@ -75,6 +123,10 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.26:6000
 http://j1900.silicaite.top:58888/rtp/239.49.9.19:6000
 #EXTINF:-1 tvg-name="沭阳综合" tvg-logo="https://zzf.new.tg/data/logos/61f8942e1ed5.png" group-title="地方频道",沭阳综合
 http://j1900.silicaite.top:58888/rtp/239.49.1.117:6000
+#EXTINF:-1 tvg-name="泗洪综合" tvg-logo="https://zzf.new.tg/data/logos/e33c5c7f3288.png" group-title="地方频道",泗洪综合
+http://j1900.silicaite.top:58888/rtp/239.49.9.47:6000
+#EXTINF:-1 tvg-name="泗洪综合" tvg-logo="https://zzf.new.tg/data/logos/e33c5c7f3288.png" group-title="地方频道",泗洪综合
+http://j1900.silicaite.top:58888/rtp/239.49.1.125:6000
 #EXTINF:-1 tvg-name="泗阳综合" tvg-logo="https://zzf.new.tg/data/logos/0af643ebb1de.png" group-title="地方频道",泗阳综合
 http://j1900.silicaite.top:58888/rtp/239.49.1.103:6000
 #EXTINF:-1 tvg-name="泰州影视" tvg-logo="https://zzf.new.tg/data/logos/6453c0febaaa.png" group-title="地方频道",泰州影视
@@ -87,6 +139,10 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.100:6000
 http://j1900.silicaite.top:58888/rtp/239.49.1.96:6000
 #EXTINF:-1 tvg-name="淮安影视" tvg-logo="https://zzf.new.tg/data/logos/a406d6703b6e.png" group-title="地方频道",淮安影视
 http://j1900.silicaite.top:58888/rtp/239.49.1.95:6000
+#EXTINF:-1 tvg-name="淮安综合" tvg-logo="https://zzf.new.tg/data/logos/e209c655eeff.png" group-title="地方频道",淮安综合
+http://j1900.silicaite.top:58888/rtp/239.49.9.46:6000
+#EXTINF:-1 tvg-name="淮安综合" tvg-logo="https://zzf.new.tg/data/logos/e209c655eeff.png" group-title="地方频道",淮安综合
+http://j1900.silicaite.top:58888/rtp/239.49.1.97:6000
 #EXTINF:-1 tvg-name="环球新闻" tvg-logo="https://zzf.new.tg/data/logos/d8c0782201e9.png" group-title="地方频道",环球新闻
 http://j1900.silicaite.top:58888/rtp/239.49.1.9:6000
 #EXTINF:-1 tvg-name="盱眙新闻" tvg-logo="https://zzf.new.tg/data/logos/8b87ce8275fa.png" group-title="地方频道",盱眙新闻
