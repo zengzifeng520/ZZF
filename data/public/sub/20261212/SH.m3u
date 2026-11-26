@@ -289,13 +289,13 @@ http://wsc2007123.myds.me:30100/rtp/233.18.204.183:5140
 http://www.liudu.net:34022/rtp/233.18.204.183:5140
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="央视频道",CCTV风云剧场
 http://www.rongrong.me:14022/rtp/233.18.204.183:5140
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://116.234.63.131:54321/rtp/233.18.204.176:5140
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://1266.kshome1266.top:8701/rtp/233.18.204.176:5140
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://wsc2007123.myds.me:30100/rtp/233.18.204.176:5140
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://www.rongrong.me:14022/rtp/233.18.204.176:5140
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="央视频道",CCTV风云音乐
 http://116.234.63.131:54321/rtp/233.18.204.185:5140
@@ -931,17 +931,17 @@ http://wsc2007123.myds.me:30100/rtp/233.18.204.41:5140
 http://www.rongrong.me:14022/rtp/233.18.204.231:5140
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png" group-title="数字频道",财富天下
 http://www.rongrong.me:14022/rtp/233.18.204.41:5140
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
 http://116.234.63.131:54321/rtp/233.18.204.63:5140
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
 http://116.234.63.131:54321/rtp/233.18.204.11:5140
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
 http://wsc2007123.myds.me:30100/rtp/233.18.204.63:5140
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
 http://wsc2007123.myds.me:30100/rtp/233.18.204.11:5140
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
 http://www.rongrong.me:14022/rtp/233.18.204.63:5140
-#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2.png" group-title="地方频道",上海教育
 http://www.rongrong.me:14022/rtp/233.18.204.11:5140
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="地方频道",上海新闻综合
 http://116.234.63.131:54321/rtp/233.18.204.57:5140

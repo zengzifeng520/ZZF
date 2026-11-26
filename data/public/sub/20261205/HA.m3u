@@ -23,17 +23,17 @@ http://125.42.200.39:9999/rtp/225.1.4.16:1045
 http://125.42.200.39:9999/rtp/225.1.5.34:1344
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="央视频道",CGTN
 http://125.42.200.39:9999/rtp/225.1.5.35:1345
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
 http://125.42.200.39:9999/rtp/225.1.5.39:1349
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视频道",CGTN俄语
 http://125.46.134.223:4000/rtp/225.1.5.39:1349
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
 http://125.42.200.39:9999/rtp/225.1.5.37:1347
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视频道",CGTN法语
 http://125.46.134.223:4000/rtp/225.1.5.37:1347
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://125.42.200.39:9999/rtp/225.1.5.36:1346
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://125.46.134.223:4000/rtp/225.1.5.36:1346
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视频道",CGTN阿语
 http://125.42.200.39:9999/rtp/225.1.5.38:1348
@@ -207,11 +207,11 @@ http://125.42.200.39:9999/rtp/225.1.4.120:1149
 http://125.46.134.223:4000/rtp/225.1.4.120:1149
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8D%97%E4%B9%A1%E6%9D%91.png" group-title="地方频道",河南乡村
 http://www.siyao.xin:4000/rtp/225.1.4.120:1149
-#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="地方频道",河南公共
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="地方频道",河南公共
 http://125.42.200.39:9999/rtp/225.1.4.58:1087
-#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="地方频道",河南公共
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="地方频道",河南公共
 http://125.46.134.223:4000/rtp/225.1.4.58:1087
-#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="地方频道",河南公共
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="地方频道",河南公共
 http://www.siyao.xin:4000/rtp/225.1.4.58:1087
 #EXTINF:-1 tvg-name="河南国际" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B2%B3%E5%8D%97%E5%9B%BD%E9%99%85.png" group-title="地方频道",河南国际
 http://125.42.200.39:9999/rtp/225.1.4.102:1131

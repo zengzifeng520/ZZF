@@ -31,9 +31,9 @@ http://www.smilehome.top:4022/udp/225.0.4.147:7980
 http://58.17.134.3:8002/udp/225.0.4.235:7980
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="影视频道",都市剧场
 http://58.17.134.3:8004/udp/225.0.4.235:7980
-#EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86.png" group-title="影视频道",重庆影视
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86.png" group-title="影视频道",重庆影视
 http://58.17.134.3:8002/udp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86.png" group-title="影视频道",重庆影视
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86.png" group-title="影视频道",重庆影视
 http://www.smilehome.top:4022/udp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="电影频道",CHC动作电影
 http://58.17.134.3:8002/udp/225.0.4.229:7980
@@ -137,25 +137,25 @@ http://17782331118.top:8188/rtp/235.254.198.224:7980
 http://17782331118.top:8188/rtp/235.254.199.224:7980
 #EXTINF:-1 tvg-name="酉阳综合" tvg-logo="https://zzf.new.tg/data/logos/d41b72836015.png" group-title="地方频道",酉阳综合
 http://17782331118.top:8188/rtp/235.254.199.236:7980
-#EXTINF:-1 tvg-id="重庆娱乐" tvg-name="重庆娱乐" tvg-logo="https://zzf.new.tg/data/logos/323ddcd06894.png" group-title="地方频道",重庆娱乐
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://zzf.new.tg/data/logos/323ddcd06894.png" group-title="地方频道",重庆娱乐
 http://58.17.134.3:8001/udp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="重庆娱乐" tvg-name="重庆娱乐" tvg-logo="https://zzf.new.tg/data/logos/323ddcd06894.png" group-title="地方频道",重庆娱乐
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://zzf.new.tg/data/logos/323ddcd06894.png" group-title="地方频道",重庆娱乐
 http://58.17.134.3:8002/udp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="重庆娱乐" tvg-name="重庆娱乐" tvg-logo="https://zzf.new.tg/data/logos/323ddcd06894.png" group-title="地方频道",重庆娱乐
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://zzf.new.tg/data/logos/323ddcd06894.png" group-title="地方频道",重庆娱乐
 http://58.17.134.3:8004/udp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="重庆娱乐" tvg-name="重庆娱乐" tvg-logo="https://zzf.new.tg/data/logos/323ddcd06894.png" group-title="地方频道",重庆娱乐
+#EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://zzf.new.tg/data/logos/323ddcd06894.png" group-title="地方频道",重庆娱乐
 http://www.smilehome.top:4022/udp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="地方频道",重庆少儿
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="地方频道",重庆少儿
 http://17782331118.top:8188/rtp/235.254.198.166:7980
-#EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="地方频道",重庆少儿
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="地方频道",重庆少儿
 http://17782331118.top:8188/rtp/235.254.199.166:7980
-#EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="地方频道",重庆少儿
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="地方频道",重庆少儿
 http://58.17.134.3:8002/udp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="地方频道",重庆少儿
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="地方频道",重庆少儿
 http://www.smilehome.top:4022/udp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" group-title="地方频道",重庆文体娱乐
+#EXTINF:-1 tvg-name="重庆文体娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" group-title="地方频道",重庆文体娱乐
 http://17782331118.top:8188/rtp/235.254.198.187:7980
-#EXTINF:-1 tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" group-title="地方频道",重庆文体娱乐
+#EXTINF:-1 tvg-name="重庆文体娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" group-title="地方频道",重庆文体娱乐
 http://17782331118.top:8188/rtp/235.254.199.187:7980
 #EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91.png" group-title="地方频道",重庆新农村
 http://17782331118.top:8188/rtp/235.254.198.186:7980
@@ -165,11 +165,11 @@ http://17782331118.top:8188/rtp/235.254.199.186:7980
 http://58.17.134.3:8002/udp/225.0.4.189:7980
 #EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91.png" group-title="地方频道",重庆新农村
 http://www.smilehome.top:4022/udp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB.png" group-title="地方频道",重庆新闻
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB.png" group-title="地方频道",重庆新闻
 http://58.17.134.3:8002/udp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB.png" group-title="地方频道",重庆新闻
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB.png" group-title="地方频道",重庆新闻
 http://www.smilehome.top:4022/udp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB.png" group-title="地方频道",重庆新闻
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB.png" group-title="地方频道",重庆新闻
 http://www.smilehome.top:4022/udp/225.0.4.59:7980
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://zzf.new.tg/data/logos/0f3e9be36150.png" group-title="地方频道",重庆汽摩
 http://17782331118.top:8188/rtp/235.254.198.169:7980

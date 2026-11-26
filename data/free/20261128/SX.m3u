@@ -219,15 +219,15 @@ http://183.191.149.244:9002/rtp/226.0.2.227:9728
 http://183.191.179.16:9010/rtp/226.0.2.227:9728
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="央视频道",CCTV风云剧场
 http://60.223.72.96:8001/rtp/226.0.2.227:9728
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://124.165.232.26:8082/rtp/226.0.2.225:9712
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://124.165.232.26:8084/rtp/226.0.2.225:9712
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://183.191.149.244:9002/rtp/226.0.2.225:9712
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://183.191.179.16:9010/rtp/226.0.2.225:9712
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://60.223.72.96:8001/rtp/226.0.2.225:9712
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="央视频道",CCTV风云音乐
 http://124.165.232.26:8082/rtp/226.0.2.220:9672
@@ -499,19 +499,19 @@ http://183.191.149.244:9002/rtp/226.0.2.48:8296
 http://183.191.179.16:9010/rtp/226.0.2.151:9120
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",黑龙江卫视
 http://183.191.179.16:9010/rtp/226.0.2.48:8296
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://124.165.232.26:8084/rtp/226.0.2.237:9808
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://124.165.232.26:8084/rtp/226.0.2.14:8024
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://183.191.149.244:9002/rtp/226.0.2.237:9808
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://183.191.149.244:9002/rtp/226.0.2.14:8024
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://183.191.179.16:9010/rtp/226.0.2.237:9808
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://183.191.179.16:9010/rtp/226.0.2.14:8024
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E8%A5%BF%E5%BD%B1%E8%A7%86.png" group-title="影视频道",山西影视
 http://jyb7928.host:8066/udp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="影视频道",都市剧场
 http://124.165.232.26:8082/rtp/226.0.2.81:8560
