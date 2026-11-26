@@ -242,8 +242,6 @@ http://183.154.113.148:4000/udp/233.50.202.24:5140
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9D.png" group-title="数字频道",优优宝贝
 http://family-ph.vividnian.com:8188/udp/233.50.202.24:5140
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9D.png" group-title="数字频道",优优宝贝
-http://slq888.cn:9999/udp/233.50.202.24:5140
-#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9D.png" group-title="数字频道",优优宝贝
 http://zjhuct.icu:8889/udp/233.50.202.24:5140
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://i.imgur.com/2FJfPDx.png" group-title="数字频道",发现之旅
 http://183.128.149.246:8000/udp/233.50.201.98:5140
@@ -251,8 +249,6 @@ http://183.128.149.246:8000/udp/233.50.201.98:5140
 http://183.154.113.148:4000/udp/233.50.201.98:5140
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://i.imgur.com/2FJfPDx.png" group-title="数字频道",发现之旅
 http://family-ph.vividnian.com:8188/udp/233.50.201.98:5140
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://i.imgur.com/2FJfPDx.png" group-title="数字频道",发现之旅
-http://slq888.cn:9999/udp/233.50.201.98:5140
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://i.imgur.com/2FJfPDx.png" group-title="数字频道",发现之旅
 http://zjhuct.icu:8889/udp/233.50.201.98:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="数字频道",快乐垂钓
@@ -292,8 +288,6 @@ http://183.154.113.148:4000/udp/233.50.200.125:5140
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F.png" group-title="数字频道",第一财经
 http://family-ph.vividnian.com:8188/udp/233.50.200.125:5140
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F.png" group-title="数字频道",第一财经
-http://slq888.cn:9999/udp/233.50.200.125:5140
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F.png" group-title="数字频道",第一财经
 http://zjhuct.icu:8889/udp/233.50.200.125:5140
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="数字频道",茶频道
 http://101.68.56.165:8188/rtp/233.50.201.188:5140
@@ -326,8 +320,6 @@ http://183.154.113.148:4000/udp/233.50.201.162:5140
 #EXTINF:-1 tvg-name="丽水新闻综合" tvg-logo="https://zzf.new.tg/data/logos/4a69a1a8bad5.png" group-title="地方频道",丽水新闻综合
 http://family-ph.vividnian.com:8188/udp/233.50.201.162:5140
 #EXTINF:-1 tvg-name="丽水新闻综合" tvg-logo="https://zzf.new.tg/data/logos/4a69a1a8bad5.png" group-title="地方频道",丽水新闻综合
-http://slq888.cn:9999/udp/233.50.201.162:5140
-#EXTINF:-1 tvg-name="丽水新闻综合" tvg-logo="https://zzf.new.tg/data/logos/4a69a1a8bad5.png" group-title="地方频道",丽水新闻综合
 http://zjhuct.icu:8889/udp/233.50.201.162:5140
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方频道",北京纪实科教
 http://101.68.56.165:8188/rtp/233.50.202.34:5140
@@ -341,8 +333,6 @@ http://183.128.149.246:8000/udp/233.50.201.157:5140
 http://183.154.113.148:4000/udp/233.50.201.157:5140
 #EXTINF:-1 tvg-name="台州新闻" tvg-logo="https://zzf.new.tg/data/logos/2179f32a6632.png" group-title="地方频道",台州新闻
 http://family-ph.vividnian.com:8188/udp/233.50.201.157:5140
-#EXTINF:-1 tvg-name="台州新闻" tvg-logo="https://zzf.new.tg/data/logos/2179f32a6632.png" group-title="地方频道",台州新闻
-http://slq888.cn:9999/udp/233.50.201.157:5140
 #EXTINF:-1 tvg-name="台州新闻" tvg-logo="https://zzf.new.tg/data/logos/2179f32a6632.png" group-title="地方频道",台州新闻
 http://zjhuct.icu:8889/udp/233.50.201.157:5140
 #EXTINF:-1 tvg-name="嘉兴新闻" tvg-logo="https://zzf.new.tg/data/logos/dd1c31cdf343.png" group-title="地方频道",嘉兴新闻
@@ -366,8 +356,6 @@ http://183.154.113.148:4000/udp/233.50.201.181:5140
 #EXTINF:-1 tvg-name="宁波少儿" tvg-logo="https://zzf.new.tg/data/logos/ce3c36815b92.png" group-title="地方频道",宁波少儿
 http://family-ph.vividnian.com:8188/udp/233.50.201.181:5140
 #EXTINF:-1 tvg-name="宁波少儿" tvg-logo="https://zzf.new.tg/data/logos/ce3c36815b92.png" group-title="地方频道",宁波少儿
-http://slq888.cn:9999/udp/233.50.201.181:5140
-#EXTINF:-1 tvg-name="宁波少儿" tvg-logo="https://zzf.new.tg/data/logos/ce3c36815b92.png" group-title="地方频道",宁波少儿
 http://zjhuct.icu:8889/udp/233.50.201.181:5140
 #EXTINF:-1 tvg-name="宁波影视" tvg-logo="https://zzf.new.tg/data/logos/569e1bb1fb6c.png" group-title="地方频道",宁波影视
 http://183.128.149.246:8000/udp/233.50.201.180:5140
@@ -375,8 +363,6 @@ http://183.128.149.246:8000/udp/233.50.201.180:5140
 http://183.154.113.148:4000/udp/233.50.201.180:5140
 #EXTINF:-1 tvg-name="宁波影视" tvg-logo="https://zzf.new.tg/data/logos/569e1bb1fb6c.png" group-title="地方频道",宁波影视
 http://family-ph.vividnian.com:8188/udp/233.50.201.180:5140
-#EXTINF:-1 tvg-name="宁波影视" tvg-logo="https://zzf.new.tg/data/logos/569e1bb1fb6c.png" group-title="地方频道",宁波影视
-http://slq888.cn:9999/udp/233.50.201.180:5140
 #EXTINF:-1 tvg-name="宁波影视" tvg-logo="https://zzf.new.tg/data/logos/569e1bb1fb6c.png" group-title="地方频道",宁波影视
 http://zjhuct.icu:8889/udp/233.50.201.180:5140
 #EXTINF:-1 tvg-name="宁波文体" tvg-logo="https://zzf.new.tg/data/logos/e1058e7ed4bd.png" group-title="地方频道",宁波文体
@@ -386,8 +372,6 @@ http://183.154.113.148:4000/udp/233.50.201.179:5140
 #EXTINF:-1 tvg-name="宁波文体" tvg-logo="https://zzf.new.tg/data/logos/e1058e7ed4bd.png" group-title="地方频道",宁波文体
 http://family-ph.vividnian.com:8188/udp/233.50.201.179:5140
 #EXTINF:-1 tvg-name="宁波文体" tvg-logo="https://zzf.new.tg/data/logos/e1058e7ed4bd.png" group-title="地方频道",宁波文体
-http://slq888.cn:9999/udp/233.50.201.179:5140
-#EXTINF:-1 tvg-name="宁波文体" tvg-logo="https://zzf.new.tg/data/logos/e1058e7ed4bd.png" group-title="地方频道",宁波文体
 http://zjhuct.icu:8889/udp/233.50.201.179:5140
 #EXTINF:-1 tvg-name="宁波生活" tvg-logo="https://zzf.new.tg/data/logos/723a92e8c804.png" group-title="地方频道",宁波生活
 http://183.128.149.246:8000/udp/233.50.201.178:5140
@@ -396,8 +380,6 @@ http://183.154.113.148:4000/udp/233.50.201.178:5140
 #EXTINF:-1 tvg-name="宁波生活" tvg-logo="https://zzf.new.tg/data/logos/723a92e8c804.png" group-title="地方频道",宁波生活
 http://family-ph.vividnian.com:8188/udp/233.50.201.178:5140
 #EXTINF:-1 tvg-name="宁波生活" tvg-logo="https://zzf.new.tg/data/logos/723a92e8c804.png" group-title="地方频道",宁波生活
-http://slq888.cn:9999/udp/233.50.201.178:5140
-#EXTINF:-1 tvg-name="宁波生活" tvg-logo="https://zzf.new.tg/data/logos/723a92e8c804.png" group-title="地方频道",宁波生活
 http://zjhuct.icu:8889/udp/233.50.201.178:5140
 #EXTINF:-1 tvg-name="宁波综合" tvg-logo="https://zzf.new.tg/data/logos/b480918a8bee.png" group-title="地方频道",宁波综合
 http://183.128.149.246:8000/udp/233.50.201.168:5140
@@ -405,8 +387,6 @@ http://183.128.149.246:8000/udp/233.50.201.168:5140
 http://183.154.113.148:4000/udp/233.50.201.168:5140
 #EXTINF:-1 tvg-name="宁波综合" tvg-logo="https://zzf.new.tg/data/logos/b480918a8bee.png" group-title="地方频道",宁波综合
 http://family-ph.vividnian.com:8188/udp/233.50.201.168:5140
-#EXTINF:-1 tvg-name="宁波综合" tvg-logo="https://zzf.new.tg/data/logos/b480918a8bee.png" group-title="地方频道",宁波综合
-http://slq888.cn:9999/udp/233.50.201.168:5140
 #EXTINF:-1 tvg-name="宁波综合" tvg-logo="https://zzf.new.tg/data/logos/b480918a8bee.png" group-title="地方频道",宁波综合
 http://zjhuct.icu:8889/udp/233.50.201.168:5140
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="地方频道",新闻综合
@@ -522,8 +502,6 @@ http://183.154.113.148:4000/udp/233.50.201.79:5140
 #EXTINF:-1 tvg-name="浙江之声广播" tvg-logo="https://zzf.new.tg/data/logos/d09645c837e9.png" group-title="地方频道",浙江之声广播
 http://family-ph.vividnian.com:8188/udp/233.50.201.79:5140
 #EXTINF:-1 tvg-name="浙江之声广播" tvg-logo="https://zzf.new.tg/data/logos/d09645c837e9.png" group-title="地方频道",浙江之声广播
-http://slq888.cn:9999/udp/233.50.201.79:5140
-#EXTINF:-1 tvg-name="浙江之声广播" tvg-logo="https://zzf.new.tg/data/logos/d09645c837e9.png" group-title="地方频道",浙江之声广播
 http://zjhuct.icu:8889/udp/233.50.201.79:5140
 #EXTINF:-1 tvg-name="浙江好易购" tvg-logo="https://zzf.new.tg/data/logos/5d77a89fbd87.png" group-title="地方频道",浙江好易购
 http://101.68.56.165:8188/rtp/233.50.201.248:5140
@@ -568,8 +546,6 @@ http://183.154.113.148:4000/udp/233.50.201.80:5140
 #EXTINF:-1 tvg-name="浙江新闻广播" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png" group-title="地方频道",浙江新闻广播
 http://family-ph.vividnian.com:8188/udp/233.50.201.80:5140
 #EXTINF:-1 tvg-name="浙江新闻广播" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png" group-title="地方频道",浙江新闻广播
-http://slq888.cn:9999/udp/233.50.201.80:5140
-#EXTINF:-1 tvg-name="浙江新闻广播" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png" group-title="地方频道",浙江新闻广播
 http://zjhuct.icu:8889/udp/233.50.201.80:5140
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F.png" group-title="地方频道",浙江民生
 http://101.68.56.165:8188/rtp/233.50.201.136:5140
@@ -592,8 +568,6 @@ http://183.154.113.148:4000/udp/233.50.201.133:5140
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://zzf.new.tg/data/logos/85ca91bb999c.png" group-title="地方频道",浙江生活
 http://family-ph.vividnian.com:8188/udp/233.50.201.133:5140
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://zzf.new.tg/data/logos/85ca91bb999c.png" group-title="地方频道",浙江生活
-http://slq888.cn:9999/udp/233.50.201.133:5140
-#EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://zzf.new.tg/data/logos/85ca91bb999c.png" group-title="地方频道",浙江生活
 http://zjhuct.icu:8889/udp/233.50.201.133:5140
 #EXTINF:-1 tvg-name="浙江纪录" tvg-logo="https://zzf.new.tg/data/logos/3a222c6c6ab1.png" group-title="地方频道",浙江纪录
 http://183.128.149.246:8000/udp/233.50.202.25:5140
@@ -601,8 +575,6 @@ http://183.128.149.246:8000/udp/233.50.202.25:5140
 http://183.154.113.148:4000/udp/233.50.202.25:5140
 #EXTINF:-1 tvg-name="浙江纪录" tvg-logo="https://zzf.new.tg/data/logos/3a222c6c6ab1.png" group-title="地方频道",浙江纪录
 http://family-ph.vividnian.com:8188/udp/233.50.202.25:5140
-#EXTINF:-1 tvg-name="浙江纪录" tvg-logo="https://zzf.new.tg/data/logos/3a222c6c6ab1.png" group-title="地方频道",浙江纪录
-http://slq888.cn:9999/udp/233.50.202.25:5140
 #EXTINF:-1 tvg-name="浙江纪录" tvg-logo="https://zzf.new.tg/data/logos/3a222c6c6ab1.png" group-title="地方频道",浙江纪录
 http://zjhuct.icu:8889/udp/233.50.202.25:5140
 #EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="地方频道",浙江经济生活
@@ -644,8 +616,6 @@ http://183.154.113.148:4000/udp/233.50.201.87:5140
 #EXTINF:-1 tvg-name="温州综合" tvg-logo="https://zzf.new.tg/data/logos/ddfa55448a24.png" group-title="地方频道",温州综合
 http://family-ph.vividnian.com:8188/udp/233.50.201.87:5140
 #EXTINF:-1 tvg-name="温州综合" tvg-logo="https://zzf.new.tg/data/logos/ddfa55448a24.png" group-title="地方频道",温州综合
-http://slq888.cn:9999/udp/233.50.201.87:5140
-#EXTINF:-1 tvg-name="温州综合" tvg-logo="https://zzf.new.tg/data/logos/ddfa55448a24.png" group-title="地方频道",温州综合
 http://zjhuct.icu:8889/udp/233.50.201.87:5140
 #EXTINF:-1 tvg-name="湖州公共" tvg-logo="https://zzf.new.tg/data/logos/a2498c06cb2a.png" group-title="地方频道",湖州公共
 http://101.68.56.165:8188/rtp/233.50.201.158:5140
@@ -660,8 +630,6 @@ http://183.154.113.148:4000/udp/233.50.201.158:5140
 #EXTINF:-1 tvg-name="湖州新闻" tvg-logo="https://zzf.new.tg/data/logos/b6abe62f47ee.png" group-title="地方频道",湖州新闻
 http://family-ph.vividnian.com:8188/udp/233.50.201.158:5140
 #EXTINF:-1 tvg-name="湖州新闻" tvg-logo="https://zzf.new.tg/data/logos/b6abe62f47ee.png" group-title="地方频道",湖州新闻
-http://slq888.cn:9999/udp/233.50.201.158:5140
-#EXTINF:-1 tvg-name="湖州新闻" tvg-logo="https://zzf.new.tg/data/logos/b6abe62f47ee.png" group-title="地方频道",湖州新闻
 http://zjhuct.icu:8889/udp/233.50.201.158:5140
 #EXTINF:-1 tvg-name="绍兴新闻" tvg-logo="https://zzf.new.tg/data/logos/60d53e4a1c41.png" group-title="地方频道",绍兴新闻
 http://101.68.56.165:8188/rtp/233.50.201.156:5140
@@ -675,8 +643,6 @@ http://183.128.149.246:8000/udp/233.50.201.156:5140
 http://183.154.113.148:4000/udp/233.50.201.156:5140
 #EXTINF:-1 tvg-name="绍兴综合" tvg-logo="https://zzf.new.tg/data/logos/4e279aaa93ec.png" group-title="地方频道",绍兴综合
 http://family-ph.vividnian.com:8188/udp/233.50.201.156:5140
-#EXTINF:-1 tvg-name="绍兴综合" tvg-logo="https://zzf.new.tg/data/logos/4e279aaa93ec.png" group-title="地方频道",绍兴综合
-http://slq888.cn:9999/udp/233.50.201.156:5140
 #EXTINF:-1 tvg-name="绍兴综合" tvg-logo="https://zzf.new.tg/data/logos/4e279aaa93ec.png" group-title="地方频道",绍兴综合
 http://zjhuct.icu:8889/udp/233.50.201.156:5140
 #EXTINF:-1 tvg-name="衢州公共" tvg-logo="https://zzf.new.tg/data/logos/bdabeef0125b.png" group-title="地方频道",衢州公共
@@ -698,8 +664,6 @@ http://183.154.113.148:4000/udp/233.50.201.155:5140
 #EXTINF:-1 tvg-name="衢州新闻" tvg-logo="https://zzf.new.tg/data/logos/0e8edfcd34ca.png" group-title="地方频道",衢州新闻
 http://family-ph.vividnian.com:8188/udp/233.50.201.155:5140
 #EXTINF:-1 tvg-name="衢州新闻" tvg-logo="https://zzf.new.tg/data/logos/0e8edfcd34ca.png" group-title="地方频道",衢州新闻
-http://slq888.cn:9999/udp/233.50.201.155:5140
-#EXTINF:-1 tvg-name="衢州新闻" tvg-logo="https://zzf.new.tg/data/logos/0e8edfcd34ca.png" group-title="地方频道",衢州新闻
 http://zjhuct.icu:8889/udp/233.50.201.155:5140
 #EXTINF:-1 tvg-name="衢州综合" tvg-logo="https://zzf.new.tg/data/logos/686bb8299017.png" group-title="地方频道",衢州综合
 http://183.128.149.246:8000/udp/233.50.202.11:5140
@@ -707,8 +671,6 @@ http://183.128.149.246:8000/udp/233.50.202.11:5140
 http://183.154.113.148:4000/udp/233.50.202.11:5140
 #EXTINF:-1 tvg-name="衢州综合" tvg-logo="https://zzf.new.tg/data/logos/686bb8299017.png" group-title="地方频道",衢州综合
 http://family-ph.vividnian.com:8188/udp/233.50.202.11:5140
-#EXTINF:-1 tvg-name="衢州综合" tvg-logo="https://zzf.new.tg/data/logos/686bb8299017.png" group-title="地方频道",衢州综合
-http://slq888.cn:9999/udp/233.50.202.11:5140
 #EXTINF:-1 tvg-name="衢州综合" tvg-logo="https://zzf.new.tg/data/logos/686bb8299017.png" group-title="地方频道",衢州综合
 http://zjhuct.icu:8889/udp/233.50.202.11:5140
 #EXTINF:-1 tvg-id="金华新闻" tvg-name="金华新闻" tvg-logo="https://zzf.new.tg/data/logos/b5240c678f71.png" group-title="地方频道",金华新闻
