@@ -33,8 +33,6 @@ http://121.29.98.145:9999/rtp/239.253.93.154:6322
 http://121.29.98.145:9999/rtp/239.253.93.150:6318
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4oz.png" group-title="央视频道",CCTV4欧洲
 http://121.29.98.145:9999/rtp/239.253.93.192:6370
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4oz.png" group-title="央视频道",CCTV4欧洲
-http://13809529pqxx.vicp.fun:4022/rtp/239.253.93.192:6370
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4mz.png" group-title="央视频道",CCTV4美洲
 http://121.29.98.145:9999/rtp/239.253.93.193:6371
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4mz.png" group-title="央视频道",CCTV4美洲

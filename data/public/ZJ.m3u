@@ -169,10 +169,6 @@ http://family-ph.vividnian.com:8188/udp/233.50.200.125:5140
 http://zjhuct.icu:8889/udp/233.50.200.125:5140
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="数字频道",茶频道
 http://101.68.56.165:8188/rtp/233.50.201.188:5140
-#EXTINF:-1 tvg-name="ymg新闻" group-title="地方频道",ymg新闻
-http://101.68.56.165:8188/rtp/233.50.201.159:5140
-#EXTINF:-1 tvg-name="ymg新闻" group-title="地方频道",ymg新闻
-http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.159:5140
 #EXTINF:-1 tvg-name="临平新闻" tvg-logo="https://zzf.new.tg/data/logos/09123f1d3fef.png" group-title="地方频道",临平新闻
 http://101.68.56.165:8188/rtp/233.50.202.32:5140
 #EXTINF:-1 tvg-name="临平新闻" tvg-logo="https://zzf.new.tg/data/logos/09123f1d3fef.png" group-title="地方频道",临平新闻
