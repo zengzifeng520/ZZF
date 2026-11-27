@@ -265,19 +265,19 @@ http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.182:5140
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.26:5140
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://zzf.new.tg/data/logos/53d10bda3689.png" group-title="地方频道",杭州导视
 http://zjhuct.icu:8889/udp/233.50.201.182:5140
-#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
 http://183.129.255.66:8480/udp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
 http://family-ph.vividnian.com:8188/udp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.24:5140
-#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
 http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.201.24:5140
-#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://zzf.new.tg/data/logos/fff00f929ea1.png" group-title="地方频道",杭州影视
 http://zjhuct.icu:8889/udp/233.50.201.176:5140
 #EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://zzf.new.tg/data/logos/7a7d8a6c44de.png" group-title="地方频道",杭州明珠
 http://183.129.255.66:8480/udp/233.50.201.174:5140
