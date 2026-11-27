@@ -29,7 +29,7 @@ http://itv.ghwxhouse.com:8089/rtp/232.0.0.91:1234
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.29:1234
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="央视频道",CCTV风云剧场
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.45:1234
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视频道",CCTV风云足球
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.52:1234
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="央视频道",CCTV风云音乐
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.47:1234
