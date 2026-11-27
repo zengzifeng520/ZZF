@@ -75,8 +75,6 @@ http://fb4wd00001.f3322.net:1111/rtp/232.0.0.25:1234
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.25:1234
 #EXTINF:-1 tvg-id="中国教育2" tvg-name="中国教育2" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="国教频道",中国教育2
 http://itv.ghwxhouse.com:8089/rtp/232.0.0.238:1234
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="数字频道",欢笑剧场
-http://itv.ghwxhouse.com:8089/rtp/232.0.0.98:1234
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://zzf.new.tg/data/logos/d26fa4594f45.png" group-title="地方频道",上海纪实
 http://fb4wd00001.f3322.net:1111/rtp/232.0.0.132:1234
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://zzf.new.tg/data/logos/d26fa4594f45.png" group-title="地方频道",上海纪实
