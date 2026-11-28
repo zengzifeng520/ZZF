@@ -144,11 +144,7 @@ http://wlei.myds.me:52057/rtp/239.69.1.221:10968
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视频道",CGTN阿语
 http://www.3872327.top:1225/rtp/239.69.1.221:10968
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",三沙卫视
-http://221.232.103.236:10001/rtp/239.69.1.171:10662
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",三沙卫视
 http://hiliu.myds.me:18088/rtp/239.69.1.171:10662
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",内蒙古卫视
-http://221.232.103.236:10001/rtp/239.254.96.41:8220
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",厦门卫视
 http://221.232.103.236:10001/rtp/239.69.1.127:10400
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",厦门卫视
@@ -235,10 +231,6 @@ http://hiliu.myds.me:18088/rtp/239.69.1.183:10734
 http://wlei.myds.me:52057/rtp/239.69.1.183:10734
 #EXTINF:-1 tvg-id="中国教育2" tvg-name="中国教育2" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="国教频道",中国教育2
 http://www.3872327.top:1225/rtp/239.69.1.183:10734
-#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="国教频道",中国教育4
-http://221.232.103.236:10001/rtp/239.69.2.29:11328
-#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" tvg-logo="https://gcore.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="国教频道",中国教育4
-http://221.232.103.236:10001/rtp/239.69.1.175:10686
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="主题频道",东方财经
 http://221.232.103.236:10001/rtp/239.69.2.9:11208
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="主题频道",东方财经
@@ -367,8 +359,6 @@ http://www.3872327.top:1225/rtp/239.69.1.85:10150
 http://www.ct123.online:8188/rtp/239.69.1.85:10150
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="数字频道",茶频道
 http://221.232.103.236:10001/rtp/239.69.1.144:10500
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png" group-title="数字频道",财富天下
-http://221.232.103.236:10001/rtp/239.254.96.210:9340
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育卫视
 http://221.232.103.236:10001/rtp/239.69.1.228:11010
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方频道",山东教育卫视

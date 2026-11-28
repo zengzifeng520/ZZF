@@ -109,12 +109,8 @@ http://121.29.98.145:9999/rtp/239.253.92.89:8019
 http://121.29.98.145:9999/rtp/239.253.93.204:6382
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="卫视频道",优漫卡通
 http://13809529pqxx.vicp.fun:4022/rtp/239.253.93.204:6382
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",兵团卫视
-http://121.29.98.145:9999/rtp/239.253.93.176:6344
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",吉林卫视
 http://121.29.98.145:9999/rtp/239.253.92.202:6147
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="卫视频道",嘉佳卡通
-http://121.29.98.145:9999/rtp/239.253.93.203:6381
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",四川卫视
 http://121.29.98.145:9999/rtp/239.253.92.16:6043
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",天津卫视
@@ -257,8 +253,6 @@ http://121.29.98.145:9999/rtp/239.253.92.132:8068
 http://13809529pqxx.vicp.fun:4022/rtp/239.253.92.132:8068
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="数字频道",茶频道
 http://121.29.98.145:9999/rtp/239.253.93.212:6390
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png" group-title="数字频道",财富天下
-http://121.29.98.145:9999/rtp/239.253.93.247:6425
 #EXTINF:-1 tvg-name="brtv纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方频道",brtv纪实科教
 http://121.29.98.145:9999/rtp/239.253.93.190:6358
 #EXTINF:-1 tvg-name="brtv纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@main/png/%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="地方频道",brtv纪实科教
